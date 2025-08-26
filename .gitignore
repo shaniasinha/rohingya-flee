@@ -1,2 +1,5 @@
 .DS_Store
-results/*
+
+results/**/
+!results/**/*.txt
+# results/*
