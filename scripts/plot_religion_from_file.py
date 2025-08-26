@@ -226,20 +226,20 @@ def plot_camp_vs_idpcamps():
                 legend_elements.append(line[0])
                 legend_labels_added.add(place)
         
-        if i != 0:
-            ax.set_ylabel("Population", fontsize=16)
-        
+        ax.set_ylabel("Population", fontsize=16)
         ax.set_xlabel("Day", fontsize=16)
         ax.set_title(f"{instance_name}", fontsize=18)
         ax.grid(True, alpha=0.3)
         ax.tick_params(axis='x', labelsize=14)
         ax.tick_params(axis='y', labelsize=14)
 
+    axes[0].legend(legend_elements, all_places, loc="center left", fontsize=10)
+
     # Create shared legend positioned outside the plots
     # plt.legend(legend_elements, all_places, 
     #            loc='lower right', fontsize=12, bbox_to_anchor=(0.7, 0.8))
-    fig.legend(legend_elements, all_places,
-               loc="center right", fontsize=12)
+    # fig.legend(legend_elements, all_places,
+            #    loc="center right", fontsize=10, bbox_to_anchor=(1.5, 1))
 
     # Add overall title
     # fig.suptitle("Camp vs IDP Camps Comparison", fontsize=18, y=0.98)
@@ -263,5 +263,5 @@ def plot_camp_vs_idpcamps():
 # Run the function
 if __name__ == "__main__":
     # plot_coxs_bazar_comparison()
-    plot_camp_vs_all_idpcamps()
-    # plot_camp_vs_idpcamps()
+    # plot_camp_vs_all_idpcamps()
+    plot_camp_vs_idpcamps()
