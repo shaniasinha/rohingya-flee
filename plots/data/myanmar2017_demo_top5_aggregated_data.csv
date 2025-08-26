@@ -1,0 +1,751 @@
+Day,Place,run,Muslim
+0,Cox's Bazar,1,70542
+0,Cox's Bazar,2,70186
+0,Cox's Bazar,3,70440
+0,Cox's Bazar,4,70506
+0,Cox's Bazar,5,70582
+0,Cox's Bazar,6,70168
+0,Cox's Bazar,7,70125
+0,Cox's Bazar,8,70584
+0,Cox's Bazar,9,70060
+0,Cox's Bazar,10,70366
+0,Kyauktaw,1,996
+0,Kyauktaw,2,1013
+0,Kyauktaw,3,995
+0,Kyauktaw,4,1006
+0,Kyauktaw,5,1000
+0,Kyauktaw,6,1057
+0,Kyauktaw,7,1005
+0,Kyauktaw,8,1019
+0,Kyauktaw,9,1033
+0,Kyauktaw,10,1004
+0,Ramree,1,168
+0,Ramree,2,147
+0,Ramree,3,170
+0,Ramree,4,172
+0,Ramree,5,148
+0,Ramree,6,163
+0,Ramree,7,179
+0,Ramree,8,171
+0,Ramree,9,172
+0,Ramree,10,174
+0,Rathedaung,1,2620
+0,Rathedaung,2,2580
+0,Rathedaung,3,2538
+0,Rathedaung,4,2633
+0,Rathedaung,5,2566
+0,Rathedaung,6,2648
+0,Rathedaung,7,2581
+0,Rathedaung,8,2668
+0,Rathedaung,9,2697
+0,Rathedaung,10,2629
+0,Sittwe,1,13294
+0,Sittwe,2,13475
+0,Sittwe,3,13401
+0,Sittwe,4,13509
+0,Sittwe,5,13498
+0,Sittwe,6,13370
+0,Sittwe,7,13588
+0,Sittwe,8,13430
+0,Sittwe,9,13395
+0,Sittwe,10,13380
+1,Cox's Bazar,1,72441
+1,Cox's Bazar,2,71948
+1,Cox's Bazar,3,72213
+1,Cox's Bazar,4,72366
+1,Cox's Bazar,5,72367
+1,Cox's Bazar,6,71961
+1,Cox's Bazar,7,71918
+1,Cox's Bazar,8,72272
+1,Cox's Bazar,9,71818
+1,Cox's Bazar,10,72113
+1,Kyauktaw,1,2757
+1,Kyauktaw,2,2731
+1,Kyauktaw,3,2683
+1,Kyauktaw,4,2716
+1,Kyauktaw,5,2672
+1,Kyauktaw,6,2826
+1,Kyauktaw,7,2689
+1,Kyauktaw,8,2718
+1,Kyauktaw,9,2774
+1,Kyauktaw,10,2712
+1,Ramree,1,617
+1,Ramree,2,544
+1,Ramree,3,618
+1,Ramree,4,608
+1,Ramree,5,587
+1,Ramree,6,569
+1,Ramree,7,662
+1,Ramree,8,625
+1,Ramree,9,604
+1,Ramree,10,616
+1,Rathedaung,1,4510
+1,Rathedaung,2,4620
+1,Rathedaung,3,4539
+1,Rathedaung,4,4607
+1,Rathedaung,5,4548
+1,Rathedaung,6,4687
+1,Rathedaung,7,4603
+1,Rathedaung,8,4640
+1,Rathedaung,9,4758
+1,Rathedaung,10,4576
+1,Sittwe,1,12143
+1,Sittwe,2,12171
+1,Sittwe,3,12216
+1,Sittwe,4,12249
+1,Sittwe,5,12271
+1,Sittwe,6,12096
+1,Sittwe,7,12385
+1,Sittwe,8,12231
+1,Sittwe,9,12149
+1,Sittwe,10,12157
+2,Cox's Bazar,1,74209
+2,Cox's Bazar,2,73604
+2,Cox's Bazar,3,73909
+2,Cox's Bazar,4,74048
+2,Cox's Bazar,5,74078
+2,Cox's Bazar,6,73652
+2,Cox's Bazar,7,73601
+2,Cox's Bazar,8,73980
+2,Cox's Bazar,9,73509
+2,Cox's Bazar,10,73787
+2,Kyauktaw,1,4393
+2,Kyauktaw,2,4403
+2,Kyauktaw,3,4144
+2,Kyauktaw,4,4180
+2,Kyauktaw,5,4188
+2,Kyauktaw,6,4369
+2,Kyauktaw,7,4200
+2,Kyauktaw,8,4318
+2,Kyauktaw,9,4398
+2,Kyauktaw,10,4278
+2,Ramree,1,1553
+2,Ramree,2,1429
+2,Ramree,3,1491
+2,Ramree,4,1447
+2,Ramree,5,1435
+2,Ramree,6,1433
+2,Ramree,7,1530
+2,Ramree,8,1497
+2,Ramree,9,1442
+2,Ramree,10,1547
+2,Rathedaung,1,6178
+2,Rathedaung,2,6087
+2,Rathedaung,3,6074
+2,Rathedaung,4,6125
+2,Rathedaung,5,6226
+2,Rathedaung,6,6276
+2,Rathedaung,7,6159
+2,Rathedaung,8,6110
+2,Rathedaung,9,6527
+2,Rathedaung,10,6197
+2,Sittwe,1,11099
+2,Sittwe,2,11301
+2,Sittwe,3,11290
+2,Sittwe,4,11395
+2,Sittwe,5,11410
+2,Sittwe,6,11198
+2,Sittwe,7,11471
+2,Sittwe,8,11309
+2,Sittwe,9,11227
+2,Sittwe,10,11174
+3,Cox's Bazar,1,75951
+3,Cox's Bazar,2,75305
+3,Cox's Bazar,3,75735
+3,Cox's Bazar,4,75843
+3,Cox's Bazar,5,75731
+3,Cox's Bazar,6,75468
+3,Cox's Bazar,7,75339
+3,Cox's Bazar,8,75792
+3,Cox's Bazar,9,75325
+3,Cox's Bazar,10,75555
+3,Kyauktaw,1,5893
+3,Kyauktaw,2,5784
+3,Kyauktaw,3,5484
+3,Kyauktaw,4,5423
+3,Kyauktaw,5,5621
+3,Kyauktaw,6,5772
+3,Kyauktaw,7,5601
+3,Kyauktaw,8,5782
+3,Kyauktaw,9,5741
+3,Kyauktaw,10,5636
+3,Ramree,1,2680
+3,Ramree,2,2607
+3,Ramree,3,2613
+3,Ramree,4,2564
+3,Ramree,5,2533
+3,Ramree,6,2606
+3,Ramree,7,2597
+3,Ramree,8,2592
+3,Ramree,9,2523
+3,Ramree,10,2659
+3,Rathedaung,1,7522
+3,Rathedaung,2,7534
+3,Rathedaung,3,7501
+3,Rathedaung,4,7616
+3,Rathedaung,5,7656
+3,Rathedaung,6,7716
+3,Rathedaung,7,7667
+3,Rathedaung,8,7556
+3,Rathedaung,9,7933
+3,Rathedaung,10,7637
+3,Sittwe,1,10426
+3,Sittwe,2,10594
+3,Sittwe,3,10604
+3,Sittwe,4,10666
+3,Sittwe,5,10666
+3,Sittwe,6,10445
+3,Sittwe,7,10740
+3,Sittwe,8,10498
+3,Sittwe,9,10591
+3,Sittwe,10,10576
+4,Cox's Bazar,1,77666
+4,Cox's Bazar,2,77081
+4,Cox's Bazar,3,77439
+4,Cox's Bazar,4,77539
+4,Cox's Bazar,5,77436
+4,Cox's Bazar,6,77155
+4,Cox's Bazar,7,77083
+4,Cox's Bazar,8,77471
+4,Cox's Bazar,9,77066
+4,Cox's Bazar,10,77281
+4,Kyauktaw,1,7147
+4,Kyauktaw,2,7006
+4,Kyauktaw,3,6812
+4,Kyauktaw,4,6675
+4,Kyauktaw,5,6874
+4,Kyauktaw,6,7065
+4,Kyauktaw,7,6916
+4,Kyauktaw,8,7084
+4,Kyauktaw,9,6956
+4,Kyauktaw,10,6879
+4,Ramree,1,4032
+4,Ramree,2,4073
+4,Ramree,3,4028
+4,Ramree,4,3932
+4,Ramree,5,3873
+4,Ramree,6,4009
+4,Ramree,7,3878
+4,Ramree,8,3953
+4,Ramree,9,3943
+4,Ramree,10,3997
+4,Rathedaung,1,8866
+4,Rathedaung,2,8813
+4,Rathedaung,3,8736
+4,Rathedaung,4,8923
+4,Rathedaung,5,8890
+4,Rathedaung,6,9020
+4,Rathedaung,7,8989
+4,Rathedaung,8,8784
+4,Rathedaung,9,9203
+4,Rathedaung,10,8937
+4,Sittwe,1,9935
+4,Sittwe,2,10025
+4,Sittwe,3,10068
+4,Sittwe,4,10226
+4,Sittwe,5,10100
+4,Sittwe,6,9949
+4,Sittwe,7,10265
+4,Sittwe,8,10067
+4,Sittwe,9,10155
+4,Sittwe,10,10081
+5,Cox's Bazar,1,79295
+5,Cox's Bazar,2,78701
+5,Cox's Bazar,3,79070
+5,Cox's Bazar,4,79248
+5,Cox's Bazar,5,79034
+5,Cox's Bazar,6,78966
+5,Cox's Bazar,7,78729
+5,Cox's Bazar,8,79218
+5,Cox's Bazar,9,78710
+5,Cox's Bazar,10,78949
+5,Kyauktaw,1,8287
+5,Kyauktaw,2,8174
+5,Kyauktaw,3,8004
+5,Kyauktaw,4,7813
+5,Kyauktaw,5,8115
+5,Kyauktaw,6,8133
+5,Kyauktaw,7,8131
+5,Kyauktaw,8,8264
+5,Kyauktaw,9,8150
+5,Kyauktaw,10,8059
+5,Ramree,1,5519
+5,Ramree,2,5611
+5,Ramree,3,5541
+5,Ramree,4,5514
+5,Ramree,5,5312
+5,Ramree,6,5549
+5,Ramree,7,5379
+5,Ramree,8,5421
+5,Ramree,9,5529
+5,Ramree,10,5501
+5,Rathedaung,1,10062
+5,Rathedaung,2,9873
+5,Rathedaung,3,9903
+5,Rathedaung,4,10157
+5,Rathedaung,5,10038
+5,Rathedaung,6,10191
+5,Rathedaung,7,10130
+5,Rathedaung,8,9872
+5,Rathedaung,9,10385
+5,Rathedaung,10,10048
+5,Sittwe,1,9589
+5,Sittwe,2,9746
+5,Sittwe,3,9848
+5,Sittwe,4,9900
+5,Sittwe,5,9813
+5,Sittwe,6,9708
+5,Sittwe,7,9925
+5,Sittwe,8,9716
+5,Sittwe,9,9827
+5,Sittwe,10,9767
+6,Cox's Bazar,1,81145
+6,Cox's Bazar,2,80477
+6,Cox's Bazar,3,80870
+6,Cox's Bazar,4,81032
+6,Cox's Bazar,5,80892
+6,Cox's Bazar,6,80661
+6,Cox's Bazar,7,80521
+6,Cox's Bazar,8,80946
+6,Cox's Bazar,9,80520
+6,Cox's Bazar,10,80724
+6,Kyauktaw,1,9419
+6,Kyauktaw,2,9322
+6,Kyauktaw,3,9186
+6,Kyauktaw,4,8968
+6,Kyauktaw,5,9284
+6,Kyauktaw,6,9352
+6,Kyauktaw,7,9342
+6,Kyauktaw,8,9434
+6,Kyauktaw,9,9251
+6,Kyauktaw,10,9280
+6,Ramree,1,7035
+6,Ramree,2,7252
+6,Ramree,3,7117
+6,Ramree,4,7119
+6,Ramree,5,6866
+6,Ramree,6,7095
+6,Ramree,7,6993
+6,Ramree,8,6932
+6,Ramree,9,7139
+6,Ramree,10,7056
+6,Rathedaung,1,11284
+6,Rathedaung,2,11210
+6,Rathedaung,3,11207
+6,Rathedaung,4,11443
+6,Rathedaung,5,11218
+6,Rathedaung,6,11530
+6,Rathedaung,7,11391
+6,Rathedaung,8,11171
+6,Rathedaung,9,11652
+6,Rathedaung,10,11369
+6,Sittwe,1,9425
+6,Sittwe,2,9471
+6,Sittwe,3,9636
+6,Sittwe,4,9680
+6,Sittwe,5,9584
+6,Sittwe,6,9428
+6,Sittwe,7,9745
+6,Sittwe,8,9488
+6,Sittwe,9,9591
+6,Sittwe,10,9551
+7,Cox's Bazar,1,82877
+7,Cox's Bazar,2,82226
+7,Cox's Bazar,3,82523
+7,Cox's Bazar,4,82764
+7,Cox's Bazar,5,82427
+7,Cox's Bazar,6,82487
+7,Cox's Bazar,7,82273
+7,Cox's Bazar,8,82599
+7,Cox's Bazar,9,82231
+7,Cox's Bazar,10,82418
+7,Kyauktaw,1,10543
+7,Kyauktaw,2,10383
+7,Kyauktaw,3,10298
+7,Kyauktaw,4,10122
+7,Kyauktaw,5,10446
+7,Kyauktaw,6,10627
+7,Kyauktaw,7,10561
+7,Kyauktaw,8,10633
+7,Kyauktaw,9,10466
+7,Kyauktaw,10,10512
+7,Ramree,1,8761
+7,Ramree,2,8941
+7,Ramree,3,8863
+7,Ramree,4,8941
+7,Ramree,5,8591
+7,Ramree,6,8861
+7,Ramree,7,8828
+7,Ramree,8,8672
+7,Ramree,9,8898
+7,Ramree,10,8831
+7,Rathedaung,1,12645
+7,Rathedaung,2,12597
+7,Rathedaung,3,12546
+7,Rathedaung,4,12866
+7,Rathedaung,5,12522
+7,Rathedaung,6,12910
+7,Rathedaung,7,12723
+7,Rathedaung,8,12484
+7,Rathedaung,9,12997
+7,Rathedaung,10,12709
+7,Sittwe,1,9615
+7,Sittwe,2,9639
+7,Sittwe,3,9778
+7,Sittwe,4,9762
+7,Sittwe,5,9770
+7,Sittwe,6,9502
+7,Sittwe,7,9917
+7,Sittwe,8,9689
+7,Sittwe,9,9728
+7,Sittwe,10,9742
+8,Cox's Bazar,1,84844
+8,Cox's Bazar,2,84100
+8,Cox's Bazar,3,84454
+8,Cox's Bazar,4,84678
+8,Cox's Bazar,5,84402
+8,Cox's Bazar,6,84403
+8,Cox's Bazar,7,84196
+8,Cox's Bazar,8,84443
+8,Cox's Bazar,9,84103
+8,Cox's Bazar,10,84440
+8,Kyauktaw,1,11650
+8,Kyauktaw,2,11515
+8,Kyauktaw,3,11587
+8,Kyauktaw,4,11348
+8,Kyauktaw,5,11554
+8,Kyauktaw,6,11774
+8,Kyauktaw,7,11631
+8,Kyauktaw,8,11769
+8,Kyauktaw,9,11626
+8,Kyauktaw,10,11621
+8,Ramree,1,10669
+8,Ramree,2,10803
+8,Ramree,3,10805
+8,Ramree,4,10973
+8,Ramree,5,10507
+8,Ramree,6,10850
+8,Ramree,7,10833
+8,Ramree,8,10600
+8,Ramree,9,10851
+8,Ramree,10,10706
+8,Rathedaung,1,13931
+8,Rathedaung,2,13972
+8,Rathedaung,3,13849
+8,Rathedaung,4,14155
+8,Rathedaung,5,13948
+8,Rathedaung,6,14060
+8,Rathedaung,7,14099
+8,Rathedaung,8,13751
+8,Rathedaung,9,14344
+8,Rathedaung,10,14065
+8,Sittwe,1,9971
+8,Sittwe,2,9984
+8,Sittwe,3,10116
+8,Sittwe,4,10076
+8,Sittwe,5,10039
+8,Sittwe,6,9849
+8,Sittwe,7,10207
+8,Sittwe,8,10055
+8,Sittwe,9,10112
+8,Sittwe,10,10082
+9,Cox's Bazar,1,86841
+9,Cox's Bazar,2,86125
+9,Cox's Bazar,3,86476
+9,Cox's Bazar,4,86645
+9,Cox's Bazar,5,86452
+9,Cox's Bazar,6,86404
+9,Cox's Bazar,7,86272
+9,Cox's Bazar,8,86401
+9,Cox's Bazar,9,86039
+9,Cox's Bazar,10,86503
+9,Kyauktaw,1,12771
+9,Kyauktaw,2,12641
+9,Kyauktaw,3,12795
+9,Kyauktaw,4,12450
+9,Kyauktaw,5,12666
+9,Kyauktaw,6,12879
+9,Kyauktaw,7,12782
+9,Kyauktaw,8,12843
+9,Kyauktaw,9,12841
+9,Kyauktaw,10,12762
+9,Ramree,1,12760
+9,Ramree,2,12863
+9,Ramree,3,12942
+9,Ramree,4,13112
+9,Ramree,5,12560
+9,Ramree,6,12979
+9,Ramree,7,12925
+9,Ramree,8,12682
+9,Ramree,9,12904
+9,Ramree,10,12835
+9,Rathedaung,1,15255
+9,Rathedaung,2,15162
+9,Rathedaung,3,15134
+9,Rathedaung,4,15431
+9,Rathedaung,5,15237
+9,Rathedaung,6,15255
+9,Rathedaung,7,15345
+9,Rathedaung,8,14981
+9,Rathedaung,9,15600
+9,Rathedaung,10,15282
+9,Sittwe,1,10389
+9,Sittwe,2,10373
+9,Sittwe,3,10510
+9,Sittwe,4,10530
+9,Sittwe,5,10487
+9,Sittwe,6,10272
+9,Sittwe,7,10620
+9,Sittwe,8,10441
+9,Sittwe,9,10611
+9,Sittwe,10,10503
+10,Cox's Bazar,1,88909
+10,Cox's Bazar,2,88173
+10,Cox's Bazar,3,88374
+10,Cox's Bazar,4,88713
+10,Cox's Bazar,5,88528
+10,Cox's Bazar,6,88449
+10,Cox's Bazar,7,88316
+10,Cox's Bazar,8,88404
+10,Cox's Bazar,9,88041
+10,Cox's Bazar,10,88513
+10,Kyauktaw,1,13902
+10,Kyauktaw,2,13673
+10,Kyauktaw,3,13786
+10,Kyauktaw,4,13537
+10,Kyauktaw,5,13731
+10,Kyauktaw,6,13914
+10,Kyauktaw,7,13929
+10,Kyauktaw,8,13912
+10,Kyauktaw,9,13978
+10,Kyauktaw,10,13779
+10,Ramree,1,14992
+10,Ramree,2,15157
+10,Ramree,3,15178
+10,Ramree,4,15514
+10,Ramree,5,14843
+10,Ramree,6,15279
+10,Ramree,7,15222
+10,Ramree,8,14956
+10,Ramree,9,15222
+10,Ramree,10,15058
+10,Rathedaung,1,16458
+10,Rathedaung,2,16402
+10,Rathedaung,3,16422
+10,Rathedaung,4,16683
+10,Rathedaung,5,16543
+10,Rathedaung,6,16425
+10,Rathedaung,7,16645
+10,Rathedaung,8,16203
+10,Rathedaung,9,16796
+10,Rathedaung,10,16523
+10,Sittwe,1,10851
+10,Sittwe,2,10799
+10,Sittwe,3,11018
+10,Sittwe,4,11059
+10,Sittwe,5,10951
+10,Sittwe,6,10707
+10,Sittwe,7,11145
+10,Sittwe,8,10906
+10,Sittwe,9,11168
+10,Sittwe,10,10995
+11,Cox's Bazar,1,90883
+11,Cox's Bazar,2,90247
+11,Cox's Bazar,3,90395
+11,Cox's Bazar,4,90728
+11,Cox's Bazar,5,90519
+11,Cox's Bazar,6,90419
+11,Cox's Bazar,7,90351
+11,Cox's Bazar,8,90516
+11,Cox's Bazar,9,90076
+11,Cox's Bazar,10,90530
+11,Kyauktaw,1,14968
+11,Kyauktaw,2,14586
+11,Kyauktaw,3,14769
+11,Kyauktaw,4,14593
+11,Kyauktaw,5,14750
+11,Kyauktaw,6,14990
+11,Kyauktaw,7,15015
+11,Kyauktaw,8,14894
+11,Kyauktaw,9,15115
+11,Kyauktaw,10,14869
+11,Ramree,1,17395
+11,Ramree,2,17631
+11,Ramree,3,17659
+11,Ramree,4,17949
+11,Ramree,5,17272
+11,Ramree,6,17677
+11,Ramree,7,17704
+11,Ramree,8,17325
+11,Ramree,9,17653
+11,Ramree,10,17500
+11,Rathedaung,1,17597
+11,Rathedaung,2,17576
+11,Rathedaung,3,17669
+11,Rathedaung,4,17841
+11,Rathedaung,5,17698
+11,Rathedaung,6,17566
+11,Rathedaung,7,17789
+11,Rathedaung,8,17406
+11,Rathedaung,9,17987
+11,Rathedaung,10,17658
+11,Sittwe,1,11439
+11,Sittwe,2,11348
+11,Sittwe,3,11609
+11,Sittwe,4,11581
+11,Sittwe,5,11648
+11,Sittwe,6,11259
+11,Sittwe,7,11661
+11,Sittwe,8,11497
+11,Sittwe,9,11564
+11,Sittwe,10,11566
+12,Cox's Bazar,1,92913
+12,Cox's Bazar,2,92348
+12,Cox's Bazar,3,92545
+12,Cox's Bazar,4,92795
+12,Cox's Bazar,5,92589
+12,Cox's Bazar,6,92446
+12,Cox's Bazar,7,92366
+12,Cox's Bazar,8,92567
+12,Cox's Bazar,9,92132
+12,Cox's Bazar,10,92614
+12,Kyauktaw,1,16010
+12,Kyauktaw,2,15415
+12,Kyauktaw,3,15832
+12,Kyauktaw,4,15573
+12,Kyauktaw,5,15744
+12,Kyauktaw,6,15854
+12,Kyauktaw,7,16132
+12,Kyauktaw,8,15999
+12,Kyauktaw,9,16073
+12,Kyauktaw,10,15763
+12,Ramree,1,19921
+12,Ramree,2,20173
+12,Ramree,3,20216
+12,Ramree,4,20419
+12,Ramree,5,19780
+12,Ramree,6,20238
+12,Ramree,7,20333
+12,Ramree,8,19831
+12,Ramree,9,20243
+12,Ramree,10,19993
+12,Rathedaung,1,18761
+12,Rathedaung,2,18673
+12,Rathedaung,3,18722
+12,Rathedaung,4,19002
+12,Rathedaung,5,18825
+12,Rathedaung,6,18709
+12,Rathedaung,7,18984
+12,Rathedaung,8,18642
+12,Rathedaung,9,19064
+12,Rathedaung,10,18760
+12,Sittwe,1,11966
+12,Sittwe,2,11969
+12,Sittwe,3,12248
+12,Sittwe,4,12203
+12,Sittwe,5,12346
+12,Sittwe,6,11830
+12,Sittwe,7,12208
+12,Sittwe,8,12011
+12,Sittwe,9,12196
+12,Sittwe,10,12119
+13,Cox's Bazar,1,95035
+13,Cox's Bazar,2,94404
+13,Cox's Bazar,3,94548
+13,Cox's Bazar,4,94879
+13,Cox's Bazar,5,94624
+13,Cox's Bazar,6,94480
+13,Cox's Bazar,7,94394
+13,Cox's Bazar,8,94612
+13,Cox's Bazar,9,94135
+13,Cox's Bazar,10,94652
+13,Kyauktaw,1,16927
+13,Kyauktaw,2,16294
+13,Kyauktaw,3,16846
+13,Kyauktaw,4,16503
+13,Kyauktaw,5,16719
+13,Kyauktaw,6,16750
+13,Kyauktaw,7,17096
+13,Kyauktaw,8,16883
+13,Kyauktaw,9,17039
+13,Kyauktaw,10,16671
+13,Ramree,1,22569
+13,Ramree,2,22726
+13,Ramree,3,22854
+13,Ramree,4,22960
+13,Ramree,5,22259
+13,Ramree,6,22754
+13,Ramree,7,22921
+13,Ramree,8,22435
+13,Ramree,9,22826
+13,Ramree,10,22632
+13,Rathedaung,1,20219
+13,Rathedaung,2,20240
+13,Rathedaung,3,20171
+13,Rathedaung,4,20558
+13,Rathedaung,5,20411
+13,Rathedaung,6,20293
+13,Rathedaung,7,20576
+13,Rathedaung,8,20197
+13,Rathedaung,9,20570
+13,Rathedaung,10,20294
+13,Sittwe,1,12689
+13,Sittwe,2,12447
+13,Sittwe,3,12892
+13,Sittwe,4,12792
+13,Sittwe,5,12873
+13,Sittwe,6,12399
+13,Sittwe,7,12751
+13,Sittwe,8,12544
+13,Sittwe,9,12701
+13,Sittwe,10,12686
+14,Cox's Bazar,1,97238
+14,Cox's Bazar,2,96496
+14,Cox's Bazar,3,96704
+14,Cox's Bazar,4,97101
+14,Cox's Bazar,5,96816
+14,Cox's Bazar,6,96544
+14,Cox's Bazar,7,96557
+14,Cox's Bazar,8,96772
+14,Cox's Bazar,9,96369
+14,Cox's Bazar,10,96795
+14,Kyauktaw,1,17714
+14,Kyauktaw,2,17172
+14,Kyauktaw,3,17726
+14,Kyauktaw,4,17413
+14,Kyauktaw,5,17472
+14,Kyauktaw,6,17515
+14,Kyauktaw,7,17910
+14,Kyauktaw,8,17720
+14,Kyauktaw,9,17848
+14,Kyauktaw,10,17547
+14,Ramree,1,25145
+14,Ramree,2,25410
+14,Ramree,3,25533
+14,Ramree,4,25608
+14,Ramree,5,24906
+14,Ramree,6,25391
+14,Ramree,7,25607
+14,Ramree,8,25113
+14,Ramree,9,25448
+14,Ramree,10,25282
+14,Rathedaung,1,22092
+14,Rathedaung,2,22096
+14,Rathedaung,3,22037
+14,Rathedaung,4,22406
+14,Rathedaung,5,22314
+14,Rathedaung,6,22137
+14,Rathedaung,7,22433
+14,Rathedaung,8,22204
+14,Rathedaung,9,22383
+14,Rathedaung,10,22144
+14,Sittwe,1,13573
+14,Sittwe,2,13235
+14,Sittwe,3,13773
+14,Sittwe,4,13785
+14,Sittwe,5,13757
+14,Sittwe,6,13223
+14,Sittwe,7,13654
+14,Sittwe,8,13392
+14,Sittwe,9,13599
+14,Sittwe,10,13569

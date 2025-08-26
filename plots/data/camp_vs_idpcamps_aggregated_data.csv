@@ -1,0 +1,2701 @@
+Day,Place,run,Muslim,Instance
+0,Cox's Bazar,1,70542,myanmar2017_demo
+0,Cox's Bazar,2,70186,myanmar2017_demo
+0,Cox's Bazar,3,70440,myanmar2017_demo
+0,Cox's Bazar,4,70506,myanmar2017_demo
+0,Cox's Bazar,5,70582,myanmar2017_demo
+0,Cox's Bazar,6,70168,myanmar2017_demo
+0,Cox's Bazar,7,70125,myanmar2017_demo
+0,Cox's Bazar,8,70584,myanmar2017_demo
+0,Cox's Bazar,9,70060,myanmar2017_demo
+0,Cox's Bazar,10,70366,myanmar2017_demo
+0,Kyaukpyu,1,261,myanmar2017_demo
+0,Kyaukpyu,2,281,myanmar2017_demo
+0,Kyaukpyu,3,254,myanmar2017_demo
+0,Kyaukpyu,4,300,myanmar2017_demo
+0,Kyaukpyu,5,273,myanmar2017_demo
+0,Kyaukpyu,6,266,myanmar2017_demo
+0,Kyaukpyu,7,260,myanmar2017_demo
+0,Kyaukpyu,8,277,myanmar2017_demo
+0,Kyaukpyu,9,265,myanmar2017_demo
+0,Kyaukpyu,10,264,myanmar2017_demo
+0,Kyauktaw,1,996,myanmar2017_demo
+0,Kyauktaw,2,1013,myanmar2017_demo
+0,Kyauktaw,3,995,myanmar2017_demo
+0,Kyauktaw,4,1006,myanmar2017_demo
+0,Kyauktaw,5,1000,myanmar2017_demo
+0,Kyauktaw,6,1057,myanmar2017_demo
+0,Kyauktaw,7,1005,myanmar2017_demo
+0,Kyauktaw,8,1019,myanmar2017_demo
+0,Kyauktaw,9,1033,myanmar2017_demo
+0,Kyauktaw,10,1004,myanmar2017_demo
+0,Maungdaw,1,1924,myanmar2017_demo
+0,Maungdaw,2,1911,myanmar2017_demo
+0,Maungdaw,3,1941,myanmar2017_demo
+0,Maungdaw,4,1903,myanmar2017_demo
+0,Maungdaw,5,1986,myanmar2017_demo
+0,Maungdaw,6,2010,myanmar2017_demo
+0,Maungdaw,7,1883,myanmar2017_demo
+0,Maungdaw,8,1988,myanmar2017_demo
+0,Maungdaw,9,2039,myanmar2017_demo
+0,Maungdaw,10,1992,myanmar2017_demo
+0,Myebon,1,3991,myanmar2017_demo
+0,Myebon,2,3851,myanmar2017_demo
+0,Myebon,3,3983,myanmar2017_demo
+0,Myebon,4,3918,myanmar2017_demo
+0,Myebon,5,3891,myanmar2017_demo
+0,Myebon,6,3921,myanmar2017_demo
+0,Myebon,7,3881,myanmar2017_demo
+0,Myebon,8,3940,myanmar2017_demo
+0,Myebon,9,3878,myanmar2017_demo
+0,Myebon,10,4003,myanmar2017_demo
+0,Pauktaw,1,2401,myanmar2017_demo
+0,Pauktaw,2,2336,myanmar2017_demo
+0,Pauktaw,3,2346,myanmar2017_demo
+0,Pauktaw,4,2405,myanmar2017_demo
+0,Pauktaw,5,2361,myanmar2017_demo
+0,Pauktaw,6,2329,myanmar2017_demo
+0,Pauktaw,7,2363,myanmar2017_demo
+0,Pauktaw,8,2280,myanmar2017_demo
+0,Pauktaw,9,2368,myanmar2017_demo
+0,Pauktaw,10,2345,myanmar2017_demo
+0,Ramree,1,168,myanmar2017_demo
+0,Ramree,2,147,myanmar2017_demo
+0,Ramree,3,170,myanmar2017_demo
+0,Ramree,4,172,myanmar2017_demo
+0,Ramree,5,148,myanmar2017_demo
+0,Ramree,6,163,myanmar2017_demo
+0,Ramree,7,179,myanmar2017_demo
+0,Ramree,8,171,myanmar2017_demo
+0,Ramree,9,172,myanmar2017_demo
+0,Ramree,10,174,myanmar2017_demo
+0,Rathedaung,1,2620,myanmar2017_demo
+0,Rathedaung,2,2580,myanmar2017_demo
+0,Rathedaung,3,2538,myanmar2017_demo
+0,Rathedaung,4,2633,myanmar2017_demo
+0,Rathedaung,5,2566,myanmar2017_demo
+0,Rathedaung,6,2648,myanmar2017_demo
+0,Rathedaung,7,2581,myanmar2017_demo
+0,Rathedaung,8,2668,myanmar2017_demo
+0,Rathedaung,9,2697,myanmar2017_demo
+0,Rathedaung,10,2629,myanmar2017_demo
+0,Sittwe,1,13294,myanmar2017_demo
+0,Sittwe,2,13475,myanmar2017_demo
+0,Sittwe,3,13401,myanmar2017_demo
+0,Sittwe,4,13509,myanmar2017_demo
+0,Sittwe,5,13498,myanmar2017_demo
+0,Sittwe,6,13370,myanmar2017_demo
+0,Sittwe,7,13588,myanmar2017_demo
+0,Sittwe,8,13430,myanmar2017_demo
+0,Sittwe,9,13395,myanmar2017_demo
+0,Sittwe,10,13380,myanmar2017_demo
+1,Cox's Bazar,1,72441,myanmar2017_demo
+1,Cox's Bazar,2,71948,myanmar2017_demo
+1,Cox's Bazar,3,72213,myanmar2017_demo
+1,Cox's Bazar,4,72366,myanmar2017_demo
+1,Cox's Bazar,5,72367,myanmar2017_demo
+1,Cox's Bazar,6,71961,myanmar2017_demo
+1,Cox's Bazar,7,71918,myanmar2017_demo
+1,Cox's Bazar,8,72272,myanmar2017_demo
+1,Cox's Bazar,9,71818,myanmar2017_demo
+1,Cox's Bazar,10,72113,myanmar2017_demo
+1,Kyaukpyu,1,250,myanmar2017_demo
+1,Kyaukpyu,2,270,myanmar2017_demo
+1,Kyaukpyu,3,242,myanmar2017_demo
+1,Kyaukpyu,4,285,myanmar2017_demo
+1,Kyaukpyu,5,257,myanmar2017_demo
+1,Kyaukpyu,6,255,myanmar2017_demo
+1,Kyaukpyu,7,242,myanmar2017_demo
+1,Kyaukpyu,8,260,myanmar2017_demo
+1,Kyaukpyu,9,248,myanmar2017_demo
+1,Kyaukpyu,10,254,myanmar2017_demo
+1,Kyauktaw,1,2757,myanmar2017_demo
+1,Kyauktaw,2,2731,myanmar2017_demo
+1,Kyauktaw,3,2683,myanmar2017_demo
+1,Kyauktaw,4,2716,myanmar2017_demo
+1,Kyauktaw,5,2672,myanmar2017_demo
+1,Kyauktaw,6,2826,myanmar2017_demo
+1,Kyauktaw,7,2689,myanmar2017_demo
+1,Kyauktaw,8,2718,myanmar2017_demo
+1,Kyauktaw,9,2774,myanmar2017_demo
+1,Kyauktaw,10,2712,myanmar2017_demo
+1,Maungdaw,1,1584,myanmar2017_demo
+1,Maungdaw,2,1564,myanmar2017_demo
+1,Maungdaw,3,1607,myanmar2017_demo
+1,Maungdaw,4,1574,myanmar2017_demo
+1,Maungdaw,5,1675,myanmar2017_demo
+1,Maungdaw,6,1706,myanmar2017_demo
+1,Maungdaw,7,1543,myanmar2017_demo
+1,Maungdaw,8,1598,myanmar2017_demo
+1,Maungdaw,9,1699,myanmar2017_demo
+1,Maungdaw,10,1617,myanmar2017_demo
+1,Myebon,1,6630,myanmar2017_demo
+1,Myebon,2,6461,myanmar2017_demo
+1,Myebon,3,6531,myanmar2017_demo
+1,Myebon,4,6559,myanmar2017_demo
+1,Myebon,5,6462,myanmar2017_demo
+1,Myebon,6,6526,myanmar2017_demo
+1,Myebon,7,6417,myanmar2017_demo
+1,Myebon,8,6427,myanmar2017_demo
+1,Myebon,9,6431,myanmar2017_demo
+1,Myebon,10,6644,myanmar2017_demo
+1,Pauktaw,1,2370,myanmar2017_demo
+1,Pauktaw,2,2307,myanmar2017_demo
+1,Pauktaw,3,2371,myanmar2017_demo
+1,Pauktaw,4,2401,myanmar2017_demo
+1,Pauktaw,5,2363,myanmar2017_demo
+1,Pauktaw,6,2384,myanmar2017_demo
+1,Pauktaw,7,2315,myanmar2017_demo
+1,Pauktaw,8,2291,myanmar2017_demo
+1,Pauktaw,9,2378,myanmar2017_demo
+1,Pauktaw,10,2352,myanmar2017_demo
+1,Ramree,1,617,myanmar2017_demo
+1,Ramree,2,544,myanmar2017_demo
+1,Ramree,3,618,myanmar2017_demo
+1,Ramree,4,608,myanmar2017_demo
+1,Ramree,5,587,myanmar2017_demo
+1,Ramree,6,569,myanmar2017_demo
+1,Ramree,7,662,myanmar2017_demo
+1,Ramree,8,625,myanmar2017_demo
+1,Ramree,9,604,myanmar2017_demo
+1,Ramree,10,616,myanmar2017_demo
+1,Rathedaung,1,4510,myanmar2017_demo
+1,Rathedaung,2,4620,myanmar2017_demo
+1,Rathedaung,3,4539,myanmar2017_demo
+1,Rathedaung,4,4607,myanmar2017_demo
+1,Rathedaung,5,4548,myanmar2017_demo
+1,Rathedaung,6,4687,myanmar2017_demo
+1,Rathedaung,7,4603,myanmar2017_demo
+1,Rathedaung,8,4640,myanmar2017_demo
+1,Rathedaung,9,4758,myanmar2017_demo
+1,Rathedaung,10,4576,myanmar2017_demo
+1,Sittwe,1,12143,myanmar2017_demo
+1,Sittwe,2,12171,myanmar2017_demo
+1,Sittwe,3,12216,myanmar2017_demo
+1,Sittwe,4,12249,myanmar2017_demo
+1,Sittwe,5,12271,myanmar2017_demo
+1,Sittwe,6,12096,myanmar2017_demo
+1,Sittwe,7,12385,myanmar2017_demo
+1,Sittwe,8,12231,myanmar2017_demo
+1,Sittwe,9,12149,myanmar2017_demo
+1,Sittwe,10,12157,myanmar2017_demo
+2,Cox's Bazar,1,74209,myanmar2017_demo
+2,Cox's Bazar,2,73604,myanmar2017_demo
+2,Cox's Bazar,3,73909,myanmar2017_demo
+2,Cox's Bazar,4,74048,myanmar2017_demo
+2,Cox's Bazar,5,74078,myanmar2017_demo
+2,Cox's Bazar,6,73652,myanmar2017_demo
+2,Cox's Bazar,7,73601,myanmar2017_demo
+2,Cox's Bazar,8,73980,myanmar2017_demo
+2,Cox's Bazar,9,73509,myanmar2017_demo
+2,Cox's Bazar,10,73787,myanmar2017_demo
+2,Kyaukpyu,1,235,myanmar2017_demo
+2,Kyaukpyu,2,262,myanmar2017_demo
+2,Kyaukpyu,3,233,myanmar2017_demo
+2,Kyaukpyu,4,275,myanmar2017_demo
+2,Kyaukpyu,5,250,myanmar2017_demo
+2,Kyaukpyu,6,246,myanmar2017_demo
+2,Kyaukpyu,7,232,myanmar2017_demo
+2,Kyaukpyu,8,253,myanmar2017_demo
+2,Kyaukpyu,9,238,myanmar2017_demo
+2,Kyaukpyu,10,245,myanmar2017_demo
+2,Kyauktaw,1,4393,myanmar2017_demo
+2,Kyauktaw,2,4403,myanmar2017_demo
+2,Kyauktaw,3,4144,myanmar2017_demo
+2,Kyauktaw,4,4180,myanmar2017_demo
+2,Kyauktaw,5,4188,myanmar2017_demo
+2,Kyauktaw,6,4369,myanmar2017_demo
+2,Kyauktaw,7,4200,myanmar2017_demo
+2,Kyauktaw,8,4318,myanmar2017_demo
+2,Kyauktaw,9,4398,myanmar2017_demo
+2,Kyauktaw,10,4278,myanmar2017_demo
+2,Maungdaw,1,1385,myanmar2017_demo
+2,Maungdaw,2,1373,myanmar2017_demo
+2,Maungdaw,3,1375,myanmar2017_demo
+2,Maungdaw,4,1376,myanmar2017_demo
+2,Maungdaw,5,1462,myanmar2017_demo
+2,Maungdaw,6,1467,myanmar2017_demo
+2,Maungdaw,7,1355,myanmar2017_demo
+2,Maungdaw,8,1413,myanmar2017_demo
+2,Maungdaw,9,1443,myanmar2017_demo
+2,Maungdaw,10,1397,myanmar2017_demo
+2,Myebon,1,7064,myanmar2017_demo
+2,Myebon,2,6852,myanmar2017_demo
+2,Myebon,3,6986,myanmar2017_demo
+2,Myebon,4,7007,myanmar2017_demo
+2,Myebon,5,6808,myanmar2017_demo
+2,Myebon,6,6947,myanmar2017_demo
+2,Myebon,7,6854,myanmar2017_demo
+2,Myebon,8,6874,myanmar2017_demo
+2,Myebon,9,6866,myanmar2017_demo
+2,Myebon,10,7048,myanmar2017_demo
+2,Pauktaw,1,2507,myanmar2017_demo
+2,Pauktaw,2,2412,myanmar2017_demo
+2,Pauktaw,3,2537,myanmar2017_demo
+2,Pauktaw,4,2569,myanmar2017_demo
+2,Pauktaw,5,2542,myanmar2017_demo
+2,Pauktaw,6,2539,myanmar2017_demo
+2,Pauktaw,7,2488,myanmar2017_demo
+2,Pauktaw,8,2429,myanmar2017_demo
+2,Pauktaw,9,2514,myanmar2017_demo
+2,Pauktaw,10,2520,myanmar2017_demo
+2,Ramree,1,1553,myanmar2017_demo
+2,Ramree,2,1429,myanmar2017_demo
+2,Ramree,3,1491,myanmar2017_demo
+2,Ramree,4,1447,myanmar2017_demo
+2,Ramree,5,1435,myanmar2017_demo
+2,Ramree,6,1433,myanmar2017_demo
+2,Ramree,7,1530,myanmar2017_demo
+2,Ramree,8,1497,myanmar2017_demo
+2,Ramree,9,1442,myanmar2017_demo
+2,Ramree,10,1547,myanmar2017_demo
+2,Rathedaung,1,6178,myanmar2017_demo
+2,Rathedaung,2,6087,myanmar2017_demo
+2,Rathedaung,3,6074,myanmar2017_demo
+2,Rathedaung,4,6125,myanmar2017_demo
+2,Rathedaung,5,6226,myanmar2017_demo
+2,Rathedaung,6,6276,myanmar2017_demo
+2,Rathedaung,7,6159,myanmar2017_demo
+2,Rathedaung,8,6110,myanmar2017_demo
+2,Rathedaung,9,6527,myanmar2017_demo
+2,Rathedaung,10,6197,myanmar2017_demo
+2,Sittwe,1,11099,myanmar2017_demo
+2,Sittwe,2,11301,myanmar2017_demo
+2,Sittwe,3,11290,myanmar2017_demo
+2,Sittwe,4,11395,myanmar2017_demo
+2,Sittwe,5,11410,myanmar2017_demo
+2,Sittwe,6,11198,myanmar2017_demo
+2,Sittwe,7,11471,myanmar2017_demo
+2,Sittwe,8,11309,myanmar2017_demo
+2,Sittwe,9,11227,myanmar2017_demo
+2,Sittwe,10,11174,myanmar2017_demo
+3,Cox's Bazar,1,75951,myanmar2017_demo
+3,Cox's Bazar,2,75305,myanmar2017_demo
+3,Cox's Bazar,3,75735,myanmar2017_demo
+3,Cox's Bazar,4,75843,myanmar2017_demo
+3,Cox's Bazar,5,75731,myanmar2017_demo
+3,Cox's Bazar,6,75468,myanmar2017_demo
+3,Cox's Bazar,7,75339,myanmar2017_demo
+3,Cox's Bazar,8,75792,myanmar2017_demo
+3,Cox's Bazar,9,75325,myanmar2017_demo
+3,Cox's Bazar,10,75555,myanmar2017_demo
+3,Kyaukpyu,1,229,myanmar2017_demo
+3,Kyaukpyu,2,253,myanmar2017_demo
+3,Kyaukpyu,3,222,myanmar2017_demo
+3,Kyaukpyu,4,267,myanmar2017_demo
+3,Kyaukpyu,5,237,myanmar2017_demo
+3,Kyaukpyu,6,235,myanmar2017_demo
+3,Kyaukpyu,7,227,myanmar2017_demo
+3,Kyaukpyu,8,241,myanmar2017_demo
+3,Kyaukpyu,9,230,myanmar2017_demo
+3,Kyaukpyu,10,236,myanmar2017_demo
+3,Kyauktaw,1,5893,myanmar2017_demo
+3,Kyauktaw,2,5784,myanmar2017_demo
+3,Kyauktaw,3,5484,myanmar2017_demo
+3,Kyauktaw,4,5423,myanmar2017_demo
+3,Kyauktaw,5,5621,myanmar2017_demo
+3,Kyauktaw,6,5772,myanmar2017_demo
+3,Kyauktaw,7,5601,myanmar2017_demo
+3,Kyauktaw,8,5782,myanmar2017_demo
+3,Kyauktaw,9,5741,myanmar2017_demo
+3,Kyauktaw,10,5636,myanmar2017_demo
+3,Maungdaw,1,1441,myanmar2017_demo
+3,Maungdaw,2,1407,myanmar2017_demo
+3,Maungdaw,3,1428,myanmar2017_demo
+3,Maungdaw,4,1426,myanmar2017_demo
+3,Maungdaw,5,1484,myanmar2017_demo
+3,Maungdaw,6,1530,myanmar2017_demo
+3,Maungdaw,7,1376,myanmar2017_demo
+3,Maungdaw,8,1443,myanmar2017_demo
+3,Maungdaw,9,1499,myanmar2017_demo
+3,Maungdaw,10,1459,myanmar2017_demo
+3,Myebon,1,7380,myanmar2017_demo
+3,Myebon,2,7124,myanmar2017_demo
+3,Myebon,3,7309,myanmar2017_demo
+3,Myebon,4,7300,myanmar2017_demo
+3,Myebon,5,7130,myanmar2017_demo
+3,Myebon,6,7268,myanmar2017_demo
+3,Myebon,7,7214,myanmar2017_demo
+3,Myebon,8,7171,myanmar2017_demo
+3,Myebon,9,7233,myanmar2017_demo
+3,Myebon,10,7345,myanmar2017_demo
+3,Pauktaw,1,2745,myanmar2017_demo
+3,Pauktaw,2,2640,myanmar2017_demo
+3,Pauktaw,3,2810,myanmar2017_demo
+3,Pauktaw,4,2828,myanmar2017_demo
+3,Pauktaw,5,2757,myanmar2017_demo
+3,Pauktaw,6,2822,myanmar2017_demo
+3,Pauktaw,7,2712,myanmar2017_demo
+3,Pauktaw,8,2763,myanmar2017_demo
+3,Pauktaw,9,2732,myanmar2017_demo
+3,Pauktaw,10,2751,myanmar2017_demo
+3,Ramree,1,2680,myanmar2017_demo
+3,Ramree,2,2607,myanmar2017_demo
+3,Ramree,3,2613,myanmar2017_demo
+3,Ramree,4,2564,myanmar2017_demo
+3,Ramree,5,2533,myanmar2017_demo
+3,Ramree,6,2606,myanmar2017_demo
+3,Ramree,7,2597,myanmar2017_demo
+3,Ramree,8,2592,myanmar2017_demo
+3,Ramree,9,2523,myanmar2017_demo
+3,Ramree,10,2659,myanmar2017_demo
+3,Rathedaung,1,7522,myanmar2017_demo
+3,Rathedaung,2,7534,myanmar2017_demo
+3,Rathedaung,3,7501,myanmar2017_demo
+3,Rathedaung,4,7616,myanmar2017_demo
+3,Rathedaung,5,7656,myanmar2017_demo
+3,Rathedaung,6,7716,myanmar2017_demo
+3,Rathedaung,7,7667,myanmar2017_demo
+3,Rathedaung,8,7556,myanmar2017_demo
+3,Rathedaung,9,7933,myanmar2017_demo
+3,Rathedaung,10,7637,myanmar2017_demo
+3,Sittwe,1,10426,myanmar2017_demo
+3,Sittwe,2,10594,myanmar2017_demo
+3,Sittwe,3,10604,myanmar2017_demo
+3,Sittwe,4,10666,myanmar2017_demo
+3,Sittwe,5,10666,myanmar2017_demo
+3,Sittwe,6,10445,myanmar2017_demo
+3,Sittwe,7,10740,myanmar2017_demo
+3,Sittwe,8,10498,myanmar2017_demo
+3,Sittwe,9,10591,myanmar2017_demo
+3,Sittwe,10,10576,myanmar2017_demo
+4,Cox's Bazar,1,77666,myanmar2017_demo
+4,Cox's Bazar,2,77081,myanmar2017_demo
+4,Cox's Bazar,3,77439,myanmar2017_demo
+4,Cox's Bazar,4,77539,myanmar2017_demo
+4,Cox's Bazar,5,77436,myanmar2017_demo
+4,Cox's Bazar,6,77155,myanmar2017_demo
+4,Cox's Bazar,7,77083,myanmar2017_demo
+4,Cox's Bazar,8,77471,myanmar2017_demo
+4,Cox's Bazar,9,77066,myanmar2017_demo
+4,Cox's Bazar,10,77281,myanmar2017_demo
+4,Kyaukpyu,1,219,myanmar2017_demo
+4,Kyaukpyu,2,234,myanmar2017_demo
+4,Kyaukpyu,3,211,myanmar2017_demo
+4,Kyaukpyu,4,260,myanmar2017_demo
+4,Kyaukpyu,5,230,myanmar2017_demo
+4,Kyaukpyu,6,226,myanmar2017_demo
+4,Kyaukpyu,7,218,myanmar2017_demo
+4,Kyaukpyu,8,230,myanmar2017_demo
+4,Kyaukpyu,9,221,myanmar2017_demo
+4,Kyaukpyu,10,223,myanmar2017_demo
+4,Kyauktaw,1,7147,myanmar2017_demo
+4,Kyauktaw,2,7006,myanmar2017_demo
+4,Kyauktaw,3,6812,myanmar2017_demo
+4,Kyauktaw,4,6675,myanmar2017_demo
+4,Kyauktaw,5,6874,myanmar2017_demo
+4,Kyauktaw,6,7065,myanmar2017_demo
+4,Kyauktaw,7,6916,myanmar2017_demo
+4,Kyauktaw,8,7084,myanmar2017_demo
+4,Kyauktaw,9,6956,myanmar2017_demo
+4,Kyauktaw,10,6879,myanmar2017_demo
+4,Maungdaw,1,1459,myanmar2017_demo
+4,Maungdaw,2,1460,myanmar2017_demo
+4,Maungdaw,3,1469,myanmar2017_demo
+4,Maungdaw,4,1474,myanmar2017_demo
+4,Maungdaw,5,1537,myanmar2017_demo
+4,Maungdaw,6,1564,myanmar2017_demo
+4,Maungdaw,7,1411,myanmar2017_demo
+4,Maungdaw,8,1492,myanmar2017_demo
+4,Maungdaw,9,1561,myanmar2017_demo
+4,Maungdaw,10,1492,myanmar2017_demo
+4,Myebon,1,7610,myanmar2017_demo
+4,Myebon,2,7421,myanmar2017_demo
+4,Myebon,3,7510,myanmar2017_demo
+4,Myebon,4,7602,myanmar2017_demo
+4,Myebon,5,7390,myanmar2017_demo
+4,Myebon,6,7471,myanmar2017_demo
+4,Myebon,7,7491,myanmar2017_demo
+4,Myebon,8,7403,myanmar2017_demo
+4,Myebon,9,7456,myanmar2017_demo
+4,Myebon,10,7591,myanmar2017_demo
+4,Pauktaw,1,3103,myanmar2017_demo
+4,Pauktaw,2,3011,myanmar2017_demo
+4,Pauktaw,3,3121,myanmar2017_demo
+4,Pauktaw,4,3177,myanmar2017_demo
+4,Pauktaw,5,3157,myanmar2017_demo
+4,Pauktaw,6,3210,myanmar2017_demo
+4,Pauktaw,7,3153,myanmar2017_demo
+4,Pauktaw,8,3131,myanmar2017_demo
+4,Pauktaw,9,3091,myanmar2017_demo
+4,Pauktaw,10,3155,myanmar2017_demo
+4,Ramree,1,4032,myanmar2017_demo
+4,Ramree,2,4073,myanmar2017_demo
+4,Ramree,3,4028,myanmar2017_demo
+4,Ramree,4,3932,myanmar2017_demo
+4,Ramree,5,3873,myanmar2017_demo
+4,Ramree,6,4009,myanmar2017_demo
+4,Ramree,7,3878,myanmar2017_demo
+4,Ramree,8,3953,myanmar2017_demo
+4,Ramree,9,3943,myanmar2017_demo
+4,Ramree,10,3997,myanmar2017_demo
+4,Rathedaung,1,8866,myanmar2017_demo
+4,Rathedaung,2,8813,myanmar2017_demo
+4,Rathedaung,3,8736,myanmar2017_demo
+4,Rathedaung,4,8923,myanmar2017_demo
+4,Rathedaung,5,8890,myanmar2017_demo
+4,Rathedaung,6,9020,myanmar2017_demo
+4,Rathedaung,7,8989,myanmar2017_demo
+4,Rathedaung,8,8784,myanmar2017_demo
+4,Rathedaung,9,9203,myanmar2017_demo
+4,Rathedaung,10,8937,myanmar2017_demo
+4,Sittwe,1,9935,myanmar2017_demo
+4,Sittwe,2,10025,myanmar2017_demo
+4,Sittwe,3,10068,myanmar2017_demo
+4,Sittwe,4,10226,myanmar2017_demo
+4,Sittwe,5,10100,myanmar2017_demo
+4,Sittwe,6,9949,myanmar2017_demo
+4,Sittwe,7,10265,myanmar2017_demo
+4,Sittwe,8,10067,myanmar2017_demo
+4,Sittwe,9,10155,myanmar2017_demo
+4,Sittwe,10,10081,myanmar2017_demo
+5,Cox's Bazar,1,79295,myanmar2017_demo
+5,Cox's Bazar,2,78701,myanmar2017_demo
+5,Cox's Bazar,3,79070,myanmar2017_demo
+5,Cox's Bazar,4,79248,myanmar2017_demo
+5,Cox's Bazar,5,79034,myanmar2017_demo
+5,Cox's Bazar,6,78966,myanmar2017_demo
+5,Cox's Bazar,7,78729,myanmar2017_demo
+5,Cox's Bazar,8,79218,myanmar2017_demo
+5,Cox's Bazar,9,78710,myanmar2017_demo
+5,Cox's Bazar,10,78949,myanmar2017_demo
+5,Kyaukpyu,1,208,myanmar2017_demo
+5,Kyaukpyu,2,221,myanmar2017_demo
+5,Kyaukpyu,3,204,myanmar2017_demo
+5,Kyaukpyu,4,239,myanmar2017_demo
+5,Kyaukpyu,5,224,myanmar2017_demo
+5,Kyaukpyu,6,215,myanmar2017_demo
+5,Kyaukpyu,7,204,myanmar2017_demo
+5,Kyaukpyu,8,216,myanmar2017_demo
+5,Kyaukpyu,9,212,myanmar2017_demo
+5,Kyaukpyu,10,216,myanmar2017_demo
+5,Kyauktaw,1,8287,myanmar2017_demo
+5,Kyauktaw,2,8174,myanmar2017_demo
+5,Kyauktaw,3,8004,myanmar2017_demo
+5,Kyauktaw,4,7813,myanmar2017_demo
+5,Kyauktaw,5,8115,myanmar2017_demo
+5,Kyauktaw,6,8133,myanmar2017_demo
+5,Kyauktaw,7,8131,myanmar2017_demo
+5,Kyauktaw,8,8264,myanmar2017_demo
+5,Kyauktaw,9,8150,myanmar2017_demo
+5,Kyauktaw,10,8059,myanmar2017_demo
+5,Maungdaw,1,1584,myanmar2017_demo
+5,Maungdaw,2,1543,myanmar2017_demo
+5,Maungdaw,3,1542,myanmar2017_demo
+5,Maungdaw,4,1556,myanmar2017_demo
+5,Maungdaw,5,1613,myanmar2017_demo
+5,Maungdaw,6,1649,myanmar2017_demo
+5,Maungdaw,7,1503,myanmar2017_demo
+5,Maungdaw,8,1550,myanmar2017_demo
+5,Maungdaw,9,1636,myanmar2017_demo
+5,Maungdaw,10,1593,myanmar2017_demo
+5,Myebon,1,7759,myanmar2017_demo
+5,Myebon,2,7679,myanmar2017_demo
+5,Myebon,3,7743,myanmar2017_demo
+5,Myebon,4,7807,myanmar2017_demo
+5,Myebon,5,7624,myanmar2017_demo
+5,Myebon,6,7723,myanmar2017_demo
+5,Myebon,7,7747,myanmar2017_demo
+5,Myebon,8,7638,myanmar2017_demo
+5,Myebon,9,7711,myanmar2017_demo
+5,Myebon,10,7779,myanmar2017_demo
+5,Pauktaw,1,3564,myanmar2017_demo
+5,Pauktaw,2,3424,myanmar2017_demo
+5,Pauktaw,3,3534,myanmar2017_demo
+5,Pauktaw,4,3602,myanmar2017_demo
+5,Pauktaw,5,3563,myanmar2017_demo
+5,Pauktaw,6,3623,myanmar2017_demo
+5,Pauktaw,7,3553,myanmar2017_demo
+5,Pauktaw,8,3582,myanmar2017_demo
+5,Pauktaw,9,3495,myanmar2017_demo
+5,Pauktaw,10,3575,myanmar2017_demo
+5,Ramree,1,5519,myanmar2017_demo
+5,Ramree,2,5611,myanmar2017_demo
+5,Ramree,3,5541,myanmar2017_demo
+5,Ramree,4,5514,myanmar2017_demo
+5,Ramree,5,5312,myanmar2017_demo
+5,Ramree,6,5549,myanmar2017_demo
+5,Ramree,7,5379,myanmar2017_demo
+5,Ramree,8,5421,myanmar2017_demo
+5,Ramree,9,5529,myanmar2017_demo
+5,Ramree,10,5501,myanmar2017_demo
+5,Rathedaung,1,10062,myanmar2017_demo
+5,Rathedaung,2,9873,myanmar2017_demo
+5,Rathedaung,3,9903,myanmar2017_demo
+5,Rathedaung,4,10157,myanmar2017_demo
+5,Rathedaung,5,10038,myanmar2017_demo
+5,Rathedaung,6,10191,myanmar2017_demo
+5,Rathedaung,7,10130,myanmar2017_demo
+5,Rathedaung,8,9872,myanmar2017_demo
+5,Rathedaung,9,10385,myanmar2017_demo
+5,Rathedaung,10,10048,myanmar2017_demo
+5,Sittwe,1,9589,myanmar2017_demo
+5,Sittwe,2,9746,myanmar2017_demo
+5,Sittwe,3,9848,myanmar2017_demo
+5,Sittwe,4,9900,myanmar2017_demo
+5,Sittwe,5,9813,myanmar2017_demo
+5,Sittwe,6,9708,myanmar2017_demo
+5,Sittwe,7,9925,myanmar2017_demo
+5,Sittwe,8,9716,myanmar2017_demo
+5,Sittwe,9,9827,myanmar2017_demo
+5,Sittwe,10,9767,myanmar2017_demo
+6,Cox's Bazar,1,81145,myanmar2017_demo
+6,Cox's Bazar,2,80477,myanmar2017_demo
+6,Cox's Bazar,3,80870,myanmar2017_demo
+6,Cox's Bazar,4,81032,myanmar2017_demo
+6,Cox's Bazar,5,80892,myanmar2017_demo
+6,Cox's Bazar,6,80661,myanmar2017_demo
+6,Cox's Bazar,7,80521,myanmar2017_demo
+6,Cox's Bazar,8,80946,myanmar2017_demo
+6,Cox's Bazar,9,80520,myanmar2017_demo
+6,Cox's Bazar,10,80724,myanmar2017_demo
+6,Kyaukpyu,1,199,myanmar2017_demo
+6,Kyaukpyu,2,215,myanmar2017_demo
+6,Kyaukpyu,3,199,myanmar2017_demo
+6,Kyaukpyu,4,229,myanmar2017_demo
+6,Kyaukpyu,5,215,myanmar2017_demo
+6,Kyaukpyu,6,204,myanmar2017_demo
+6,Kyaukpyu,7,198,myanmar2017_demo
+6,Kyaukpyu,8,207,myanmar2017_demo
+6,Kyaukpyu,9,207,myanmar2017_demo
+6,Kyaukpyu,10,206,myanmar2017_demo
+6,Kyauktaw,1,9419,myanmar2017_demo
+6,Kyauktaw,2,9322,myanmar2017_demo
+6,Kyauktaw,3,9186,myanmar2017_demo
+6,Kyauktaw,4,8968,myanmar2017_demo
+6,Kyauktaw,5,9284,myanmar2017_demo
+6,Kyauktaw,6,9352,myanmar2017_demo
+6,Kyauktaw,7,9342,myanmar2017_demo
+6,Kyauktaw,8,9434,myanmar2017_demo
+6,Kyauktaw,9,9251,myanmar2017_demo
+6,Kyauktaw,10,9280,myanmar2017_demo
+6,Maungdaw,1,1835,myanmar2017_demo
+6,Maungdaw,2,1745,myanmar2017_demo
+6,Maungdaw,3,1789,myanmar2017_demo
+6,Maungdaw,4,1808,myanmar2017_demo
+6,Maungdaw,5,1822,myanmar2017_demo
+6,Maungdaw,6,1882,myanmar2017_demo
+6,Maungdaw,7,1730,myanmar2017_demo
+6,Maungdaw,8,1784,myanmar2017_demo
+6,Maungdaw,9,1866,myanmar2017_demo
+6,Maungdaw,10,1791,myanmar2017_demo
+6,Myebon,1,7991,myanmar2017_demo
+6,Myebon,2,7815,myanmar2017_demo
+6,Myebon,3,8032,myanmar2017_demo
+6,Myebon,4,8079,myanmar2017_demo
+6,Myebon,5,7882,myanmar2017_demo
+6,Myebon,6,7947,myanmar2017_demo
+6,Myebon,7,7944,myanmar2017_demo
+6,Myebon,8,7874,myanmar2017_demo
+6,Myebon,9,7920,myanmar2017_demo
+6,Myebon,10,8000,myanmar2017_demo
+6,Pauktaw,1,3985,myanmar2017_demo
+6,Pauktaw,2,3888,myanmar2017_demo
+6,Pauktaw,3,3939,myanmar2017_demo
+6,Pauktaw,4,4000,myanmar2017_demo
+6,Pauktaw,5,3979,myanmar2017_demo
+6,Pauktaw,6,4052,myanmar2017_demo
+6,Pauktaw,7,3994,myanmar2017_demo
+6,Pauktaw,8,4045,myanmar2017_demo
+6,Pauktaw,9,3901,myanmar2017_demo
+6,Pauktaw,10,4025,myanmar2017_demo
+6,Ramree,1,7035,myanmar2017_demo
+6,Ramree,2,7252,myanmar2017_demo
+6,Ramree,3,7117,myanmar2017_demo
+6,Ramree,4,7119,myanmar2017_demo
+6,Ramree,5,6866,myanmar2017_demo
+6,Ramree,6,7095,myanmar2017_demo
+6,Ramree,7,6993,myanmar2017_demo
+6,Ramree,8,6932,myanmar2017_demo
+6,Ramree,9,7139,myanmar2017_demo
+6,Ramree,10,7056,myanmar2017_demo
+6,Rathedaung,1,11284,myanmar2017_demo
+6,Rathedaung,2,11210,myanmar2017_demo
+6,Rathedaung,3,11207,myanmar2017_demo
+6,Rathedaung,4,11443,myanmar2017_demo
+6,Rathedaung,5,11218,myanmar2017_demo
+6,Rathedaung,6,11530,myanmar2017_demo
+6,Rathedaung,7,11391,myanmar2017_demo
+6,Rathedaung,8,11171,myanmar2017_demo
+6,Rathedaung,9,11652,myanmar2017_demo
+6,Rathedaung,10,11369,myanmar2017_demo
+6,Sittwe,1,9425,myanmar2017_demo
+6,Sittwe,2,9471,myanmar2017_demo
+6,Sittwe,3,9636,myanmar2017_demo
+6,Sittwe,4,9680,myanmar2017_demo
+6,Sittwe,5,9584,myanmar2017_demo
+6,Sittwe,6,9428,myanmar2017_demo
+6,Sittwe,7,9745,myanmar2017_demo
+6,Sittwe,8,9488,myanmar2017_demo
+6,Sittwe,9,9591,myanmar2017_demo
+6,Sittwe,10,9551,myanmar2017_demo
+7,Cox's Bazar,1,82877,myanmar2017_demo
+7,Cox's Bazar,2,82226,myanmar2017_demo
+7,Cox's Bazar,3,82523,myanmar2017_demo
+7,Cox's Bazar,4,82764,myanmar2017_demo
+7,Cox's Bazar,5,82427,myanmar2017_demo
+7,Cox's Bazar,6,82487,myanmar2017_demo
+7,Cox's Bazar,7,82273,myanmar2017_demo
+7,Cox's Bazar,8,82599,myanmar2017_demo
+7,Cox's Bazar,9,82231,myanmar2017_demo
+7,Cox's Bazar,10,82418,myanmar2017_demo
+7,Kyaukpyu,1,194,myanmar2017_demo
+7,Kyaukpyu,2,206,myanmar2017_demo
+7,Kyaukpyu,3,188,myanmar2017_demo
+7,Kyaukpyu,4,223,myanmar2017_demo
+7,Kyaukpyu,5,211,myanmar2017_demo
+7,Kyaukpyu,6,193,myanmar2017_demo
+7,Kyaukpyu,7,191,myanmar2017_demo
+7,Kyaukpyu,8,191,myanmar2017_demo
+7,Kyaukpyu,9,201,myanmar2017_demo
+7,Kyaukpyu,10,191,myanmar2017_demo
+7,Kyauktaw,1,10543,myanmar2017_demo
+7,Kyauktaw,2,10383,myanmar2017_demo
+7,Kyauktaw,3,10298,myanmar2017_demo
+7,Kyauktaw,4,10122,myanmar2017_demo
+7,Kyauktaw,5,10446,myanmar2017_demo
+7,Kyauktaw,6,10627,myanmar2017_demo
+7,Kyauktaw,7,10561,myanmar2017_demo
+7,Kyauktaw,8,10633,myanmar2017_demo
+7,Kyauktaw,9,10466,myanmar2017_demo
+7,Kyauktaw,10,10512,myanmar2017_demo
+7,Maungdaw,1,2080,myanmar2017_demo
+7,Maungdaw,2,2054,myanmar2017_demo
+7,Maungdaw,3,2041,myanmar2017_demo
+7,Maungdaw,4,2007,myanmar2017_demo
+7,Maungdaw,5,2068,myanmar2017_demo
+7,Maungdaw,6,2114,myanmar2017_demo
+7,Maungdaw,7,1994,myanmar2017_demo
+7,Maungdaw,8,2067,myanmar2017_demo
+7,Maungdaw,9,2130,myanmar2017_demo
+7,Maungdaw,10,2039,myanmar2017_demo
+7,Myebon,1,8228,myanmar2017_demo
+7,Myebon,2,8078,myanmar2017_demo
+7,Myebon,3,8317,myanmar2017_demo
+7,Myebon,4,8274,myanmar2017_demo
+7,Myebon,5,8128,myanmar2017_demo
+7,Myebon,6,8178,myanmar2017_demo
+7,Myebon,7,8170,myanmar2017_demo
+7,Myebon,8,8128,myanmar2017_demo
+7,Myebon,9,8160,myanmar2017_demo
+7,Myebon,10,8207,myanmar2017_demo
+7,Pauktaw,1,4383,myanmar2017_demo
+7,Pauktaw,2,4351,myanmar2017_demo
+7,Pauktaw,3,4359,myanmar2017_demo
+7,Pauktaw,4,4477,myanmar2017_demo
+7,Pauktaw,5,4368,myanmar2017_demo
+7,Pauktaw,6,4497,myanmar2017_demo
+7,Pauktaw,7,4426,myanmar2017_demo
+7,Pauktaw,8,4451,myanmar2017_demo
+7,Pauktaw,9,4324,myanmar2017_demo
+7,Pauktaw,10,4413,myanmar2017_demo
+7,Ramree,1,8761,myanmar2017_demo
+7,Ramree,2,8941,myanmar2017_demo
+7,Ramree,3,8863,myanmar2017_demo
+7,Ramree,4,8941,myanmar2017_demo
+7,Ramree,5,8591,myanmar2017_demo
+7,Ramree,6,8861,myanmar2017_demo
+7,Ramree,7,8828,myanmar2017_demo
+7,Ramree,8,8672,myanmar2017_demo
+7,Ramree,9,8898,myanmar2017_demo
+7,Ramree,10,8831,myanmar2017_demo
+7,Rathedaung,1,12645,myanmar2017_demo
+7,Rathedaung,2,12597,myanmar2017_demo
+7,Rathedaung,3,12546,myanmar2017_demo
+7,Rathedaung,4,12866,myanmar2017_demo
+7,Rathedaung,5,12522,myanmar2017_demo
+7,Rathedaung,6,12910,myanmar2017_demo
+7,Rathedaung,7,12723,myanmar2017_demo
+7,Rathedaung,8,12484,myanmar2017_demo
+7,Rathedaung,9,12997,myanmar2017_demo
+7,Rathedaung,10,12709,myanmar2017_demo
+7,Sittwe,1,9615,myanmar2017_demo
+7,Sittwe,2,9639,myanmar2017_demo
+7,Sittwe,3,9778,myanmar2017_demo
+7,Sittwe,4,9762,myanmar2017_demo
+7,Sittwe,5,9770,myanmar2017_demo
+7,Sittwe,6,9502,myanmar2017_demo
+7,Sittwe,7,9917,myanmar2017_demo
+7,Sittwe,8,9689,myanmar2017_demo
+7,Sittwe,9,9728,myanmar2017_demo
+7,Sittwe,10,9742,myanmar2017_demo
+8,Cox's Bazar,1,84844,myanmar2017_demo
+8,Cox's Bazar,2,84100,myanmar2017_demo
+8,Cox's Bazar,3,84454,myanmar2017_demo
+8,Cox's Bazar,4,84678,myanmar2017_demo
+8,Cox's Bazar,5,84402,myanmar2017_demo
+8,Cox's Bazar,6,84403,myanmar2017_demo
+8,Cox's Bazar,7,84196,myanmar2017_demo
+8,Cox's Bazar,8,84443,myanmar2017_demo
+8,Cox's Bazar,9,84103,myanmar2017_demo
+8,Cox's Bazar,10,84440,myanmar2017_demo
+8,Kyaukpyu,1,185,myanmar2017_demo
+8,Kyaukpyu,2,196,myanmar2017_demo
+8,Kyaukpyu,3,179,myanmar2017_demo
+8,Kyaukpyu,4,215,myanmar2017_demo
+8,Kyaukpyu,5,204,myanmar2017_demo
+8,Kyaukpyu,6,185,myanmar2017_demo
+8,Kyaukpyu,7,183,myanmar2017_demo
+8,Kyaukpyu,8,185,myanmar2017_demo
+8,Kyaukpyu,9,195,myanmar2017_demo
+8,Kyaukpyu,10,180,myanmar2017_demo
+8,Kyauktaw,1,11650,myanmar2017_demo
+8,Kyauktaw,2,11515,myanmar2017_demo
+8,Kyauktaw,3,11587,myanmar2017_demo
+8,Kyauktaw,4,11348,myanmar2017_demo
+8,Kyauktaw,5,11554,myanmar2017_demo
+8,Kyauktaw,6,11774,myanmar2017_demo
+8,Kyauktaw,7,11631,myanmar2017_demo
+8,Kyauktaw,8,11769,myanmar2017_demo
+8,Kyauktaw,9,11626,myanmar2017_demo
+8,Kyauktaw,10,11621,myanmar2017_demo
+8,Maungdaw,1,2303,myanmar2017_demo
+8,Maungdaw,2,2259,myanmar2017_demo
+8,Maungdaw,3,2228,myanmar2017_demo
+8,Maungdaw,4,2268,myanmar2017_demo
+8,Maungdaw,5,2314,myanmar2017_demo
+8,Maungdaw,6,2328,myanmar2017_demo
+8,Maungdaw,7,2260,myanmar2017_demo
+8,Maungdaw,8,2307,myanmar2017_demo
+8,Maungdaw,9,2379,myanmar2017_demo
+8,Maungdaw,10,2265,myanmar2017_demo
+8,Myebon,1,8475,myanmar2017_demo
+8,Myebon,2,8361,myanmar2017_demo
+8,Myebon,3,8608,myanmar2017_demo
+8,Myebon,4,8493,myanmar2017_demo
+8,Myebon,5,8373,myanmar2017_demo
+8,Myebon,6,8434,myanmar2017_demo
+8,Myebon,7,8398,myanmar2017_demo
+8,Myebon,8,8346,myanmar2017_demo
+8,Myebon,9,8478,myanmar2017_demo
+8,Myebon,10,8481,myanmar2017_demo
+8,Pauktaw,1,4856,myanmar2017_demo
+8,Pauktaw,2,4783,myanmar2017_demo
+8,Pauktaw,3,4785,myanmar2017_demo
+8,Pauktaw,4,4847,myanmar2017_demo
+8,Pauktaw,5,4791,myanmar2017_demo
+8,Pauktaw,6,4960,myanmar2017_demo
+8,Pauktaw,7,4926,myanmar2017_demo
+8,Pauktaw,8,4896,myanmar2017_demo
+8,Pauktaw,9,4794,myanmar2017_demo
+8,Pauktaw,10,4876,myanmar2017_demo
+8,Ramree,1,10669,myanmar2017_demo
+8,Ramree,2,10803,myanmar2017_demo
+8,Ramree,3,10805,myanmar2017_demo
+8,Ramree,4,10973,myanmar2017_demo
+8,Ramree,5,10507,myanmar2017_demo
+8,Ramree,6,10850,myanmar2017_demo
+8,Ramree,7,10833,myanmar2017_demo
+8,Ramree,8,10600,myanmar2017_demo
+8,Ramree,9,10851,myanmar2017_demo
+8,Ramree,10,10706,myanmar2017_demo
+8,Rathedaung,1,13931,myanmar2017_demo
+8,Rathedaung,2,13972,myanmar2017_demo
+8,Rathedaung,3,13849,myanmar2017_demo
+8,Rathedaung,4,14155,myanmar2017_demo
+8,Rathedaung,5,13948,myanmar2017_demo
+8,Rathedaung,6,14060,myanmar2017_demo
+8,Rathedaung,7,14099,myanmar2017_demo
+8,Rathedaung,8,13751,myanmar2017_demo
+8,Rathedaung,9,14344,myanmar2017_demo
+8,Rathedaung,10,14065,myanmar2017_demo
+8,Sittwe,1,9971,myanmar2017_demo
+8,Sittwe,2,9984,myanmar2017_demo
+8,Sittwe,3,10116,myanmar2017_demo
+8,Sittwe,4,10076,myanmar2017_demo
+8,Sittwe,5,10039,myanmar2017_demo
+8,Sittwe,6,9849,myanmar2017_demo
+8,Sittwe,7,10207,myanmar2017_demo
+8,Sittwe,8,10055,myanmar2017_demo
+8,Sittwe,9,10112,myanmar2017_demo
+8,Sittwe,10,10082,myanmar2017_demo
+9,Cox's Bazar,1,86841,myanmar2017_demo
+9,Cox's Bazar,2,86125,myanmar2017_demo
+9,Cox's Bazar,3,86476,myanmar2017_demo
+9,Cox's Bazar,4,86645,myanmar2017_demo
+9,Cox's Bazar,5,86452,myanmar2017_demo
+9,Cox's Bazar,6,86404,myanmar2017_demo
+9,Cox's Bazar,7,86272,myanmar2017_demo
+9,Cox's Bazar,8,86401,myanmar2017_demo
+9,Cox's Bazar,9,86039,myanmar2017_demo
+9,Cox's Bazar,10,86503,myanmar2017_demo
+9,Kyaukpyu,1,181,myanmar2017_demo
+9,Kyaukpyu,2,186,myanmar2017_demo
+9,Kyaukpyu,3,175,myanmar2017_demo
+9,Kyaukpyu,4,204,myanmar2017_demo
+9,Kyaukpyu,5,194,myanmar2017_demo
+9,Kyaukpyu,6,177,myanmar2017_demo
+9,Kyaukpyu,7,178,myanmar2017_demo
+9,Kyaukpyu,8,175,myanmar2017_demo
+9,Kyaukpyu,9,188,myanmar2017_demo
+9,Kyaukpyu,10,168,myanmar2017_demo
+9,Kyauktaw,1,12771,myanmar2017_demo
+9,Kyauktaw,2,12641,myanmar2017_demo
+9,Kyauktaw,3,12795,myanmar2017_demo
+9,Kyauktaw,4,12450,myanmar2017_demo
+9,Kyauktaw,5,12666,myanmar2017_demo
+9,Kyauktaw,6,12879,myanmar2017_demo
+9,Kyauktaw,7,12782,myanmar2017_demo
+9,Kyauktaw,8,12843,myanmar2017_demo
+9,Kyauktaw,9,12841,myanmar2017_demo
+9,Kyauktaw,10,12762,myanmar2017_demo
+9,Maungdaw,1,2487,myanmar2017_demo
+9,Maungdaw,2,2512,myanmar2017_demo
+9,Maungdaw,3,2509,myanmar2017_demo
+9,Maungdaw,4,2515,myanmar2017_demo
+9,Maungdaw,5,2514,myanmar2017_demo
+9,Maungdaw,6,2570,myanmar2017_demo
+9,Maungdaw,7,2460,myanmar2017_demo
+9,Maungdaw,8,2529,myanmar2017_demo
+9,Maungdaw,9,2616,myanmar2017_demo
+9,Maungdaw,10,2470,myanmar2017_demo
+9,Myebon,1,8802,myanmar2017_demo
+9,Myebon,2,8631,myanmar2017_demo
+9,Myebon,3,8880,myanmar2017_demo
+9,Myebon,4,8745,myanmar2017_demo
+9,Myebon,5,8620,myanmar2017_demo
+9,Myebon,6,8697,myanmar2017_demo
+9,Myebon,7,8691,myanmar2017_demo
+9,Myebon,8,8574,myanmar2017_demo
+9,Myebon,9,8799,myanmar2017_demo
+9,Myebon,10,8818,myanmar2017_demo
+9,Pauktaw,1,5323,myanmar2017_demo
+9,Pauktaw,2,5168,myanmar2017_demo
+9,Pauktaw,3,5203,myanmar2017_demo
+9,Pauktaw,4,5285,myanmar2017_demo
+9,Pauktaw,5,5292,myanmar2017_demo
+9,Pauktaw,6,5392,myanmar2017_demo
+9,Pauktaw,7,5367,myanmar2017_demo
+9,Pauktaw,8,5429,myanmar2017_demo
+9,Pauktaw,9,5199,myanmar2017_demo
+9,Pauktaw,10,5334,myanmar2017_demo
+9,Ramree,1,12760,myanmar2017_demo
+9,Ramree,2,12863,myanmar2017_demo
+9,Ramree,3,12942,myanmar2017_demo
+9,Ramree,4,13112,myanmar2017_demo
+9,Ramree,5,12560,myanmar2017_demo
+9,Ramree,6,12979,myanmar2017_demo
+9,Ramree,7,12925,myanmar2017_demo
+9,Ramree,8,12682,myanmar2017_demo
+9,Ramree,9,12904,myanmar2017_demo
+9,Ramree,10,12835,myanmar2017_demo
+9,Rathedaung,1,15255,myanmar2017_demo
+9,Rathedaung,2,15162,myanmar2017_demo
+9,Rathedaung,3,15134,myanmar2017_demo
+9,Rathedaung,4,15431,myanmar2017_demo
+9,Rathedaung,5,15237,myanmar2017_demo
+9,Rathedaung,6,15255,myanmar2017_demo
+9,Rathedaung,7,15345,myanmar2017_demo
+9,Rathedaung,8,14981,myanmar2017_demo
+9,Rathedaung,9,15600,myanmar2017_demo
+9,Rathedaung,10,15282,myanmar2017_demo
+9,Sittwe,1,10389,myanmar2017_demo
+9,Sittwe,2,10373,myanmar2017_demo
+9,Sittwe,3,10510,myanmar2017_demo
+9,Sittwe,4,10530,myanmar2017_demo
+9,Sittwe,5,10487,myanmar2017_demo
+9,Sittwe,6,10272,myanmar2017_demo
+9,Sittwe,7,10620,myanmar2017_demo
+9,Sittwe,8,10441,myanmar2017_demo
+9,Sittwe,9,10611,myanmar2017_demo
+9,Sittwe,10,10503,myanmar2017_demo
+10,Cox's Bazar,1,88909,myanmar2017_demo
+10,Cox's Bazar,2,88173,myanmar2017_demo
+10,Cox's Bazar,3,88374,myanmar2017_demo
+10,Cox's Bazar,4,88713,myanmar2017_demo
+10,Cox's Bazar,5,88528,myanmar2017_demo
+10,Cox's Bazar,6,88449,myanmar2017_demo
+10,Cox's Bazar,7,88316,myanmar2017_demo
+10,Cox's Bazar,8,88404,myanmar2017_demo
+10,Cox's Bazar,9,88041,myanmar2017_demo
+10,Cox's Bazar,10,88513,myanmar2017_demo
+10,Kyaukpyu,1,172,myanmar2017_demo
+10,Kyaukpyu,2,182,myanmar2017_demo
+10,Kyaukpyu,3,170,myanmar2017_demo
+10,Kyaukpyu,4,194,myanmar2017_demo
+10,Kyaukpyu,5,184,myanmar2017_demo
+10,Kyaukpyu,6,165,myanmar2017_demo
+10,Kyaukpyu,7,168,myanmar2017_demo
+10,Kyaukpyu,8,168,myanmar2017_demo
+10,Kyaukpyu,9,176,myanmar2017_demo
+10,Kyaukpyu,10,158,myanmar2017_demo
+10,Kyauktaw,1,13902,myanmar2017_demo
+10,Kyauktaw,2,13673,myanmar2017_demo
+10,Kyauktaw,3,13786,myanmar2017_demo
+10,Kyauktaw,4,13537,myanmar2017_demo
+10,Kyauktaw,5,13731,myanmar2017_demo
+10,Kyauktaw,6,13914,myanmar2017_demo
+10,Kyauktaw,7,13929,myanmar2017_demo
+10,Kyauktaw,8,13912,myanmar2017_demo
+10,Kyauktaw,9,13978,myanmar2017_demo
+10,Kyauktaw,10,13779,myanmar2017_demo
+10,Maungdaw,1,2720,myanmar2017_demo
+10,Maungdaw,2,2723,myanmar2017_demo
+10,Maungdaw,3,2747,myanmar2017_demo
+10,Maungdaw,4,2738,myanmar2017_demo
+10,Maungdaw,5,2749,myanmar2017_demo
+10,Maungdaw,6,2825,myanmar2017_demo
+10,Maungdaw,7,2735,myanmar2017_demo
+10,Maungdaw,8,2749,myanmar2017_demo
+10,Maungdaw,9,2856,myanmar2017_demo
+10,Maungdaw,10,2694,myanmar2017_demo
+10,Myebon,1,9100,myanmar2017_demo
+10,Myebon,2,9009,myanmar2017_demo
+10,Myebon,3,9099,myanmar2017_demo
+10,Myebon,4,9049,myanmar2017_demo
+10,Myebon,5,9000,myanmar2017_demo
+10,Myebon,6,9010,myanmar2017_demo
+10,Myebon,7,8985,myanmar2017_demo
+10,Myebon,8,8902,myanmar2017_demo
+10,Myebon,9,9076,myanmar2017_demo
+10,Myebon,10,9170,myanmar2017_demo
+10,Pauktaw,1,5821,myanmar2017_demo
+10,Pauktaw,2,5608,myanmar2017_demo
+10,Pauktaw,3,5774,myanmar2017_demo
+10,Pauktaw,4,5685,myanmar2017_demo
+10,Pauktaw,5,5782,myanmar2017_demo
+10,Pauktaw,6,5853,myanmar2017_demo
+10,Pauktaw,7,5808,myanmar2017_demo
+10,Pauktaw,8,5911,myanmar2017_demo
+10,Pauktaw,9,5711,myanmar2017_demo
+10,Pauktaw,10,5754,myanmar2017_demo
+10,Ramree,1,14992,myanmar2017_demo
+10,Ramree,2,15157,myanmar2017_demo
+10,Ramree,3,15178,myanmar2017_demo
+10,Ramree,4,15514,myanmar2017_demo
+10,Ramree,5,14843,myanmar2017_demo
+10,Ramree,6,15279,myanmar2017_demo
+10,Ramree,7,15222,myanmar2017_demo
+10,Ramree,8,14956,myanmar2017_demo
+10,Ramree,9,15222,myanmar2017_demo
+10,Ramree,10,15058,myanmar2017_demo
+10,Rathedaung,1,16458,myanmar2017_demo
+10,Rathedaung,2,16402,myanmar2017_demo
+10,Rathedaung,3,16422,myanmar2017_demo
+10,Rathedaung,4,16683,myanmar2017_demo
+10,Rathedaung,5,16543,myanmar2017_demo
+10,Rathedaung,6,16425,myanmar2017_demo
+10,Rathedaung,7,16645,myanmar2017_demo
+10,Rathedaung,8,16203,myanmar2017_demo
+10,Rathedaung,9,16796,myanmar2017_demo
+10,Rathedaung,10,16523,myanmar2017_demo
+10,Sittwe,1,10851,myanmar2017_demo
+10,Sittwe,2,10799,myanmar2017_demo
+10,Sittwe,3,11018,myanmar2017_demo
+10,Sittwe,4,11059,myanmar2017_demo
+10,Sittwe,5,10951,myanmar2017_demo
+10,Sittwe,6,10707,myanmar2017_demo
+10,Sittwe,7,11145,myanmar2017_demo
+10,Sittwe,8,10906,myanmar2017_demo
+10,Sittwe,9,11168,myanmar2017_demo
+10,Sittwe,10,10995,myanmar2017_demo
+11,Cox's Bazar,1,90883,myanmar2017_demo
+11,Cox's Bazar,2,90247,myanmar2017_demo
+11,Cox's Bazar,3,90395,myanmar2017_demo
+11,Cox's Bazar,4,90728,myanmar2017_demo
+11,Cox's Bazar,5,90519,myanmar2017_demo
+11,Cox's Bazar,6,90419,myanmar2017_demo
+11,Cox's Bazar,7,90351,myanmar2017_demo
+11,Cox's Bazar,8,90516,myanmar2017_demo
+11,Cox's Bazar,9,90076,myanmar2017_demo
+11,Cox's Bazar,10,90530,myanmar2017_demo
+11,Kyaukpyu,1,166,myanmar2017_demo
+11,Kyaukpyu,2,178,myanmar2017_demo
+11,Kyaukpyu,3,161,myanmar2017_demo
+11,Kyaukpyu,4,186,myanmar2017_demo
+11,Kyaukpyu,5,175,myanmar2017_demo
+11,Kyaukpyu,6,154,myanmar2017_demo
+11,Kyaukpyu,7,164,myanmar2017_demo
+11,Kyaukpyu,8,161,myanmar2017_demo
+11,Kyaukpyu,9,171,myanmar2017_demo
+11,Kyaukpyu,10,150,myanmar2017_demo
+11,Kyauktaw,1,14968,myanmar2017_demo
+11,Kyauktaw,2,14586,myanmar2017_demo
+11,Kyauktaw,3,14769,myanmar2017_demo
+11,Kyauktaw,4,14593,myanmar2017_demo
+11,Kyauktaw,5,14750,myanmar2017_demo
+11,Kyauktaw,6,14990,myanmar2017_demo
+11,Kyauktaw,7,15015,myanmar2017_demo
+11,Kyauktaw,8,14894,myanmar2017_demo
+11,Kyauktaw,9,15115,myanmar2017_demo
+11,Kyauktaw,10,14869,myanmar2017_demo
+11,Maungdaw,1,2933,myanmar2017_demo
+11,Maungdaw,2,2987,myanmar2017_demo
+11,Maungdaw,3,2981,myanmar2017_demo
+11,Maungdaw,4,2965,myanmar2017_demo
+11,Maungdaw,5,2983,myanmar2017_demo
+11,Maungdaw,6,3003,myanmar2017_demo
+11,Maungdaw,7,2946,myanmar2017_demo
+11,Maungdaw,8,2968,myanmar2017_demo
+11,Maungdaw,9,3040,myanmar2017_demo
+11,Maungdaw,10,2920,myanmar2017_demo
+11,Myebon,1,9429,myanmar2017_demo
+11,Myebon,2,9352,myanmar2017_demo
+11,Myebon,3,9418,myanmar2017_demo
+11,Myebon,4,9405,myanmar2017_demo
+11,Myebon,5,9315,myanmar2017_demo
+11,Myebon,6,9306,myanmar2017_demo
+11,Myebon,7,9358,myanmar2017_demo
+11,Myebon,8,9215,myanmar2017_demo
+11,Myebon,9,9371,myanmar2017_demo
+11,Myebon,10,9492,myanmar2017_demo
+11,Pauktaw,1,6299,myanmar2017_demo
+11,Pauktaw,2,6117,myanmar2017_demo
+11,Pauktaw,3,6204,myanmar2017_demo
+11,Pauktaw,4,6122,myanmar2017_demo
+11,Pauktaw,5,6220,myanmar2017_demo
+11,Pauktaw,6,6262,myanmar2017_demo
+11,Pauktaw,7,6290,myanmar2017_demo
+11,Pauktaw,8,6398,myanmar2017_demo
+11,Pauktaw,9,6177,myanmar2017_demo
+11,Pauktaw,10,6209,myanmar2017_demo
+11,Ramree,1,17395,myanmar2017_demo
+11,Ramree,2,17631,myanmar2017_demo
+11,Ramree,3,17659,myanmar2017_demo
+11,Ramree,4,17949,myanmar2017_demo
+11,Ramree,5,17272,myanmar2017_demo
+11,Ramree,6,17677,myanmar2017_demo
+11,Ramree,7,17704,myanmar2017_demo
+11,Ramree,8,17325,myanmar2017_demo
+11,Ramree,9,17653,myanmar2017_demo
+11,Ramree,10,17500,myanmar2017_demo
+11,Rathedaung,1,17597,myanmar2017_demo
+11,Rathedaung,2,17576,myanmar2017_demo
+11,Rathedaung,3,17669,myanmar2017_demo
+11,Rathedaung,4,17841,myanmar2017_demo
+11,Rathedaung,5,17698,myanmar2017_demo
+11,Rathedaung,6,17566,myanmar2017_demo
+11,Rathedaung,7,17789,myanmar2017_demo
+11,Rathedaung,8,17406,myanmar2017_demo
+11,Rathedaung,9,17987,myanmar2017_demo
+11,Rathedaung,10,17658,myanmar2017_demo
+11,Sittwe,1,11439,myanmar2017_demo
+11,Sittwe,2,11348,myanmar2017_demo
+11,Sittwe,3,11609,myanmar2017_demo
+11,Sittwe,4,11581,myanmar2017_demo
+11,Sittwe,5,11648,myanmar2017_demo
+11,Sittwe,6,11259,myanmar2017_demo
+11,Sittwe,7,11661,myanmar2017_demo
+11,Sittwe,8,11497,myanmar2017_demo
+11,Sittwe,9,11564,myanmar2017_demo
+11,Sittwe,10,11566,myanmar2017_demo
+12,Cox's Bazar,1,92913,myanmar2017_demo
+12,Cox's Bazar,2,92348,myanmar2017_demo
+12,Cox's Bazar,3,92545,myanmar2017_demo
+12,Cox's Bazar,4,92795,myanmar2017_demo
+12,Cox's Bazar,5,92589,myanmar2017_demo
+12,Cox's Bazar,6,92446,myanmar2017_demo
+12,Cox's Bazar,7,92366,myanmar2017_demo
+12,Cox's Bazar,8,92567,myanmar2017_demo
+12,Cox's Bazar,9,92132,myanmar2017_demo
+12,Cox's Bazar,10,92614,myanmar2017_demo
+12,Kyaukpyu,1,160,myanmar2017_demo
+12,Kyaukpyu,2,168,myanmar2017_demo
+12,Kyaukpyu,3,157,myanmar2017_demo
+12,Kyaukpyu,4,179,myanmar2017_demo
+12,Kyaukpyu,5,168,myanmar2017_demo
+12,Kyaukpyu,6,143,myanmar2017_demo
+12,Kyaukpyu,7,157,myanmar2017_demo
+12,Kyaukpyu,8,154,myanmar2017_demo
+12,Kyaukpyu,9,170,myanmar2017_demo
+12,Kyaukpyu,10,145,myanmar2017_demo
+12,Kyauktaw,1,16010,myanmar2017_demo
+12,Kyauktaw,2,15415,myanmar2017_demo
+12,Kyauktaw,3,15832,myanmar2017_demo
+12,Kyauktaw,4,15573,myanmar2017_demo
+12,Kyauktaw,5,15744,myanmar2017_demo
+12,Kyauktaw,6,15854,myanmar2017_demo
+12,Kyauktaw,7,16132,myanmar2017_demo
+12,Kyauktaw,8,15999,myanmar2017_demo
+12,Kyauktaw,9,16073,myanmar2017_demo
+12,Kyauktaw,10,15763,myanmar2017_demo
+12,Maungdaw,1,3160,myanmar2017_demo
+12,Maungdaw,2,3209,myanmar2017_demo
+12,Maungdaw,3,3190,myanmar2017_demo
+12,Maungdaw,4,3194,myanmar2017_demo
+12,Maungdaw,5,3209,myanmar2017_demo
+12,Maungdaw,6,3210,myanmar2017_demo
+12,Maungdaw,7,3177,myanmar2017_demo
+12,Maungdaw,8,3165,myanmar2017_demo
+12,Maungdaw,9,3224,myanmar2017_demo
+12,Maungdaw,10,3188,myanmar2017_demo
+12,Myebon,1,9744,myanmar2017_demo
+12,Myebon,2,9729,myanmar2017_demo
+12,Myebon,3,9729,myanmar2017_demo
+12,Myebon,4,9722,myanmar2017_demo
+12,Myebon,5,9697,myanmar2017_demo
+12,Myebon,6,9669,myanmar2017_demo
+12,Myebon,7,9664,myanmar2017_demo
+12,Myebon,8,9608,myanmar2017_demo
+12,Myebon,9,9683,myanmar2017_demo
+12,Myebon,10,9868,myanmar2017_demo
+12,Pauktaw,1,6804,myanmar2017_demo
+12,Pauktaw,2,6593,myanmar2017_demo
+12,Pauktaw,3,6663,myanmar2017_demo
+12,Pauktaw,4,6625,myanmar2017_demo
+12,Pauktaw,5,6722,myanmar2017_demo
+12,Pauktaw,6,6734,myanmar2017_demo
+12,Pauktaw,7,6794,myanmar2017_demo
+12,Pauktaw,8,6868,myanmar2017_demo
+12,Pauktaw,9,6796,myanmar2017_demo
+12,Pauktaw,10,6759,myanmar2017_demo
+12,Ramree,1,19921,myanmar2017_demo
+12,Ramree,2,20173,myanmar2017_demo
+12,Ramree,3,20216,myanmar2017_demo
+12,Ramree,4,20419,myanmar2017_demo
+12,Ramree,5,19780,myanmar2017_demo
+12,Ramree,6,20238,myanmar2017_demo
+12,Ramree,7,20333,myanmar2017_demo
+12,Ramree,8,19831,myanmar2017_demo
+12,Ramree,9,20243,myanmar2017_demo
+12,Ramree,10,19993,myanmar2017_demo
+12,Rathedaung,1,18761,myanmar2017_demo
+12,Rathedaung,2,18673,myanmar2017_demo
+12,Rathedaung,3,18722,myanmar2017_demo
+12,Rathedaung,4,19002,myanmar2017_demo
+12,Rathedaung,5,18825,myanmar2017_demo
+12,Rathedaung,6,18709,myanmar2017_demo
+12,Rathedaung,7,18984,myanmar2017_demo
+12,Rathedaung,8,18642,myanmar2017_demo
+12,Rathedaung,9,19064,myanmar2017_demo
+12,Rathedaung,10,18760,myanmar2017_demo
+12,Sittwe,1,11966,myanmar2017_demo
+12,Sittwe,2,11969,myanmar2017_demo
+12,Sittwe,3,12248,myanmar2017_demo
+12,Sittwe,4,12203,myanmar2017_demo
+12,Sittwe,5,12346,myanmar2017_demo
+12,Sittwe,6,11830,myanmar2017_demo
+12,Sittwe,7,12208,myanmar2017_demo
+12,Sittwe,8,12011,myanmar2017_demo
+12,Sittwe,9,12196,myanmar2017_demo
+12,Sittwe,10,12119,myanmar2017_demo
+13,Cox's Bazar,1,95035,myanmar2017_demo
+13,Cox's Bazar,2,94404,myanmar2017_demo
+13,Cox's Bazar,3,94548,myanmar2017_demo
+13,Cox's Bazar,4,94879,myanmar2017_demo
+13,Cox's Bazar,5,94624,myanmar2017_demo
+13,Cox's Bazar,6,94480,myanmar2017_demo
+13,Cox's Bazar,7,94394,myanmar2017_demo
+13,Cox's Bazar,8,94612,myanmar2017_demo
+13,Cox's Bazar,9,94135,myanmar2017_demo
+13,Cox's Bazar,10,94652,myanmar2017_demo
+13,Kyaukpyu,1,151,myanmar2017_demo
+13,Kyaukpyu,2,163,myanmar2017_demo
+13,Kyaukpyu,3,150,myanmar2017_demo
+13,Kyaukpyu,4,172,myanmar2017_demo
+13,Kyaukpyu,5,159,myanmar2017_demo
+13,Kyaukpyu,6,139,myanmar2017_demo
+13,Kyaukpyu,7,148,myanmar2017_demo
+13,Kyaukpyu,8,149,myanmar2017_demo
+13,Kyaukpyu,9,165,myanmar2017_demo
+13,Kyaukpyu,10,138,myanmar2017_demo
+13,Kyauktaw,1,16927,myanmar2017_demo
+13,Kyauktaw,2,16294,myanmar2017_demo
+13,Kyauktaw,3,16846,myanmar2017_demo
+13,Kyauktaw,4,16503,myanmar2017_demo
+13,Kyauktaw,5,16719,myanmar2017_demo
+13,Kyauktaw,6,16750,myanmar2017_demo
+13,Kyauktaw,7,17096,myanmar2017_demo
+13,Kyauktaw,8,16883,myanmar2017_demo
+13,Kyauktaw,9,17039,myanmar2017_demo
+13,Kyauktaw,10,16671,myanmar2017_demo
+13,Maungdaw,1,3484,myanmar2017_demo
+13,Maungdaw,2,3539,myanmar2017_demo
+13,Maungdaw,3,3512,myanmar2017_demo
+13,Maungdaw,4,3556,myanmar2017_demo
+13,Maungdaw,5,3536,myanmar2017_demo
+13,Maungdaw,6,3506,myanmar2017_demo
+13,Maungdaw,7,3493,myanmar2017_demo
+13,Maungdaw,8,3553,myanmar2017_demo
+13,Maungdaw,9,3545,myanmar2017_demo
+13,Maungdaw,10,3552,myanmar2017_demo
+13,Myebon,1,10048,myanmar2017_demo
+13,Myebon,2,10097,myanmar2017_demo
+13,Myebon,3,10060,myanmar2017_demo
+13,Myebon,4,10025,myanmar2017_demo
+13,Myebon,5,10096,myanmar2017_demo
+13,Myebon,6,10022,myanmar2017_demo
+13,Myebon,7,10046,myanmar2017_demo
+13,Myebon,8,9959,myanmar2017_demo
+13,Myebon,9,10134,myanmar2017_demo
+13,Myebon,10,10257,myanmar2017_demo
+13,Pauktaw,1,7303,myanmar2017_demo
+13,Pauktaw,2,7151,myanmar2017_demo
+13,Pauktaw,3,7169,myanmar2017_demo
+13,Pauktaw,4,7240,myanmar2017_demo
+13,Pauktaw,5,7227,myanmar2017_demo
+13,Pauktaw,6,7247,myanmar2017_demo
+13,Pauktaw,7,7278,myanmar2017_demo
+13,Pauktaw,8,7452,myanmar2017_demo
+13,Pauktaw,9,7350,myanmar2017_demo
+13,Pauktaw,10,7302,myanmar2017_demo
+13,Ramree,1,22569,myanmar2017_demo
+13,Ramree,2,22726,myanmar2017_demo
+13,Ramree,3,22854,myanmar2017_demo
+13,Ramree,4,22960,myanmar2017_demo
+13,Ramree,5,22259,myanmar2017_demo
+13,Ramree,6,22754,myanmar2017_demo
+13,Ramree,7,22921,myanmar2017_demo
+13,Ramree,8,22435,myanmar2017_demo
+13,Ramree,9,22826,myanmar2017_demo
+13,Ramree,10,22632,myanmar2017_demo
+13,Rathedaung,1,20219,myanmar2017_demo
+13,Rathedaung,2,20240,myanmar2017_demo
+13,Rathedaung,3,20171,myanmar2017_demo
+13,Rathedaung,4,20558,myanmar2017_demo
+13,Rathedaung,5,20411,myanmar2017_demo
+13,Rathedaung,6,20293,myanmar2017_demo
+13,Rathedaung,7,20576,myanmar2017_demo
+13,Rathedaung,8,20197,myanmar2017_demo
+13,Rathedaung,9,20570,myanmar2017_demo
+13,Rathedaung,10,20294,myanmar2017_demo
+13,Sittwe,1,12689,myanmar2017_demo
+13,Sittwe,2,12447,myanmar2017_demo
+13,Sittwe,3,12892,myanmar2017_demo
+13,Sittwe,4,12792,myanmar2017_demo
+13,Sittwe,5,12873,myanmar2017_demo
+13,Sittwe,6,12399,myanmar2017_demo
+13,Sittwe,7,12751,myanmar2017_demo
+13,Sittwe,8,12544,myanmar2017_demo
+13,Sittwe,9,12701,myanmar2017_demo
+13,Sittwe,10,12686,myanmar2017_demo
+14,Cox's Bazar,1,97238,myanmar2017_demo
+14,Cox's Bazar,2,96496,myanmar2017_demo
+14,Cox's Bazar,3,96704,myanmar2017_demo
+14,Cox's Bazar,4,97101,myanmar2017_demo
+14,Cox's Bazar,5,96816,myanmar2017_demo
+14,Cox's Bazar,6,96544,myanmar2017_demo
+14,Cox's Bazar,7,96557,myanmar2017_demo
+14,Cox's Bazar,8,96772,myanmar2017_demo
+14,Cox's Bazar,9,96369,myanmar2017_demo
+14,Cox's Bazar,10,96795,myanmar2017_demo
+14,Kyaukpyu,1,145,myanmar2017_demo
+14,Kyaukpyu,2,154,myanmar2017_demo
+14,Kyaukpyu,3,144,myanmar2017_demo
+14,Kyaukpyu,4,163,myanmar2017_demo
+14,Kyaukpyu,5,150,myanmar2017_demo
+14,Kyaukpyu,6,130,myanmar2017_demo
+14,Kyaukpyu,7,141,myanmar2017_demo
+14,Kyaukpyu,8,145,myanmar2017_demo
+14,Kyaukpyu,9,156,myanmar2017_demo
+14,Kyaukpyu,10,133,myanmar2017_demo
+14,Kyauktaw,1,17714,myanmar2017_demo
+14,Kyauktaw,2,17172,myanmar2017_demo
+14,Kyauktaw,3,17726,myanmar2017_demo
+14,Kyauktaw,4,17413,myanmar2017_demo
+14,Kyauktaw,5,17472,myanmar2017_demo
+14,Kyauktaw,6,17515,myanmar2017_demo
+14,Kyauktaw,7,17910,myanmar2017_demo
+14,Kyauktaw,8,17720,myanmar2017_demo
+14,Kyauktaw,9,17848,myanmar2017_demo
+14,Kyauktaw,10,17547,myanmar2017_demo
+14,Maungdaw,1,3866,myanmar2017_demo
+14,Maungdaw,2,3923,myanmar2017_demo
+14,Maungdaw,3,3840,myanmar2017_demo
+14,Maungdaw,4,3927,myanmar2017_demo
+14,Maungdaw,5,3890,myanmar2017_demo
+14,Maungdaw,6,3878,myanmar2017_demo
+14,Maungdaw,7,3823,myanmar2017_demo
+14,Maungdaw,8,3995,myanmar2017_demo
+14,Maungdaw,9,3936,myanmar2017_demo
+14,Maungdaw,10,3937,myanmar2017_demo
+14,Myebon,1,10389,myanmar2017_demo
+14,Myebon,2,10373,myanmar2017_demo
+14,Myebon,3,10470,myanmar2017_demo
+14,Myebon,4,10372,myanmar2017_demo
+14,Myebon,5,10431,myanmar2017_demo
+14,Myebon,6,10436,myanmar2017_demo
+14,Myebon,7,10369,myanmar2017_demo
+14,Myebon,8,10341,myanmar2017_demo
+14,Myebon,9,10509,myanmar2017_demo
+14,Myebon,10,10630,myanmar2017_demo
+14,Pauktaw,1,7931,myanmar2017_demo
+14,Pauktaw,2,7781,myanmar2017_demo
+14,Pauktaw,3,7837,myanmar2017_demo
+14,Pauktaw,4,7864,myanmar2017_demo
+14,Pauktaw,5,7864,myanmar2017_demo
+14,Pauktaw,6,7933,myanmar2017_demo
+14,Pauktaw,7,7913,myanmar2017_demo
+14,Pauktaw,8,8036,myanmar2017_demo
+14,Pauktaw,9,8025,myanmar2017_demo
+14,Pauktaw,10,7861,myanmar2017_demo
+14,Ramree,1,25145,myanmar2017_demo
+14,Ramree,2,25410,myanmar2017_demo
+14,Ramree,3,25533,myanmar2017_demo
+14,Ramree,4,25608,myanmar2017_demo
+14,Ramree,5,24906,myanmar2017_demo
+14,Ramree,6,25391,myanmar2017_demo
+14,Ramree,7,25607,myanmar2017_demo
+14,Ramree,8,25113,myanmar2017_demo
+14,Ramree,9,25448,myanmar2017_demo
+14,Ramree,10,25282,myanmar2017_demo
+14,Rathedaung,1,22092,myanmar2017_demo
+14,Rathedaung,2,22096,myanmar2017_demo
+14,Rathedaung,3,22037,myanmar2017_demo
+14,Rathedaung,4,22406,myanmar2017_demo
+14,Rathedaung,5,22314,myanmar2017_demo
+14,Rathedaung,6,22137,myanmar2017_demo
+14,Rathedaung,7,22433,myanmar2017_demo
+14,Rathedaung,8,22204,myanmar2017_demo
+14,Rathedaung,9,22383,myanmar2017_demo
+14,Rathedaung,10,22144,myanmar2017_demo
+14,Sittwe,1,13573,myanmar2017_demo
+14,Sittwe,2,13235,myanmar2017_demo
+14,Sittwe,3,13773,myanmar2017_demo
+14,Sittwe,4,13785,myanmar2017_demo
+14,Sittwe,5,13757,myanmar2017_demo
+14,Sittwe,6,13223,myanmar2017_demo
+14,Sittwe,7,13654,myanmar2017_demo
+14,Sittwe,8,13392,myanmar2017_demo
+14,Sittwe,9,13599,myanmar2017_demo
+14,Sittwe,10,13569,myanmar2017_demo
+0,Cox's Bazar,1,70137,myanmar2017_network
+0,Cox's Bazar,2,70170,myanmar2017_network
+0,Cox's Bazar,3,70337,myanmar2017_network
+0,Cox's Bazar,4,70563,myanmar2017_network
+0,Cox's Bazar,5,70441,myanmar2017_network
+0,Cox's Bazar,6,70349,myanmar2017_network
+0,Cox's Bazar,7,70273,myanmar2017_network
+0,Cox's Bazar,8,70295,myanmar2017_network
+0,Cox's Bazar,9,70406,myanmar2017_network
+0,Cox's Bazar,10,70214,myanmar2017_network
+0,Kyaukpyu,1,271,myanmar2017_network
+0,Kyaukpyu,2,261,myanmar2017_network
+0,Kyaukpyu,3,291,myanmar2017_network
+0,Kyaukpyu,4,249,myanmar2017_network
+0,Kyaukpyu,5,289,myanmar2017_network
+0,Kyaukpyu,6,281,myanmar2017_network
+0,Kyaukpyu,7,262,myanmar2017_network
+0,Kyaukpyu,8,271,myanmar2017_network
+0,Kyaukpyu,9,251,myanmar2017_network
+0,Kyaukpyu,10,270,myanmar2017_network
+0,Kyauktaw,1,979,myanmar2017_network
+0,Kyauktaw,2,1043,myanmar2017_network
+0,Kyauktaw,3,999,myanmar2017_network
+0,Kyauktaw,4,1057,myanmar2017_network
+0,Kyauktaw,5,1017,myanmar2017_network
+0,Kyauktaw,6,986,myanmar2017_network
+0,Kyauktaw,7,1031,myanmar2017_network
+0,Kyauktaw,8,1013,myanmar2017_network
+0,Kyauktaw,9,989,myanmar2017_network
+0,Kyauktaw,10,1033,myanmar2017_network
+0,Maungdaw,1,1925,myanmar2017_network
+0,Maungdaw,2,1990,myanmar2017_network
+0,Maungdaw,3,2044,myanmar2017_network
+0,Maungdaw,4,1920,myanmar2017_network
+0,Maungdaw,5,2025,myanmar2017_network
+0,Maungdaw,6,1985,myanmar2017_network
+0,Maungdaw,7,2046,myanmar2017_network
+0,Maungdaw,8,1833,myanmar2017_network
+0,Maungdaw,9,1967,myanmar2017_network
+0,Maungdaw,10,1941,myanmar2017_network
+0,Myebon,1,3835,myanmar2017_network
+0,Myebon,2,3870,myanmar2017_network
+0,Myebon,3,3882,myanmar2017_network
+0,Myebon,4,3950,myanmar2017_network
+0,Myebon,5,3906,myanmar2017_network
+0,Myebon,6,3853,myanmar2017_network
+0,Myebon,7,3873,myanmar2017_network
+0,Myebon,8,3959,myanmar2017_network
+0,Myebon,9,3847,myanmar2017_network
+0,Myebon,10,3995,myanmar2017_network
+0,Pauktaw,1,2305,myanmar2017_network
+0,Pauktaw,2,2334,myanmar2017_network
+0,Pauktaw,3,2289,myanmar2017_network
+0,Pauktaw,4,2314,myanmar2017_network
+0,Pauktaw,5,2315,myanmar2017_network
+0,Pauktaw,6,2423,myanmar2017_network
+0,Pauktaw,7,2382,myanmar2017_network
+0,Pauktaw,8,2395,myanmar2017_network
+0,Pauktaw,9,2338,myanmar2017_network
+0,Pauktaw,10,2350,myanmar2017_network
+0,Ramree,1,196,myanmar2017_network
+0,Ramree,2,165,myanmar2017_network
+0,Ramree,3,190,myanmar2017_network
+0,Ramree,4,176,myanmar2017_network
+0,Ramree,5,157,myanmar2017_network
+0,Ramree,6,160,myanmar2017_network
+0,Ramree,7,168,myanmar2017_network
+0,Ramree,8,144,myanmar2017_network
+0,Ramree,9,172,myanmar2017_network
+0,Ramree,10,163,myanmar2017_network
+0,Rathedaung,1,2446,myanmar2017_network
+0,Rathedaung,2,2668,myanmar2017_network
+0,Rathedaung,3,2575,myanmar2017_network
+0,Rathedaung,4,2581,myanmar2017_network
+0,Rathedaung,5,2635,myanmar2017_network
+0,Rathedaung,6,2586,myanmar2017_network
+0,Rathedaung,7,2679,myanmar2017_network
+0,Rathedaung,8,2565,myanmar2017_network
+0,Rathedaung,9,2506,myanmar2017_network
+0,Rathedaung,10,2612,myanmar2017_network
+0,Sittwe,1,13774,myanmar2017_network
+0,Sittwe,2,13582,myanmar2017_network
+0,Sittwe,3,13474,myanmar2017_network
+0,Sittwe,4,13350,myanmar2017_network
+0,Sittwe,5,13462,myanmar2017_network
+0,Sittwe,6,13599,myanmar2017_network
+0,Sittwe,7,13620,myanmar2017_network
+0,Sittwe,8,13333,myanmar2017_network
+0,Sittwe,9,13504,myanmar2017_network
+0,Sittwe,10,13565,myanmar2017_network
+1,Cox's Bazar,1,71872,myanmar2017_network
+1,Cox's Bazar,2,71972,myanmar2017_network
+1,Cox's Bazar,3,72169,myanmar2017_network
+1,Cox's Bazar,4,72291,myanmar2017_network
+1,Cox's Bazar,5,72258,myanmar2017_network
+1,Cox's Bazar,6,72072,myanmar2017_network
+1,Cox's Bazar,7,72024,myanmar2017_network
+1,Cox's Bazar,8,72085,myanmar2017_network
+1,Cox's Bazar,9,72219,myanmar2017_network
+1,Cox's Bazar,10,71946,myanmar2017_network
+1,Kyaukpyu,1,261,myanmar2017_network
+1,Kyaukpyu,2,248,myanmar2017_network
+1,Kyaukpyu,3,282,myanmar2017_network
+1,Kyaukpyu,4,238,myanmar2017_network
+1,Kyaukpyu,5,278,myanmar2017_network
+1,Kyaukpyu,6,265,myanmar2017_network
+1,Kyaukpyu,7,251,myanmar2017_network
+1,Kyaukpyu,8,258,myanmar2017_network
+1,Kyaukpyu,9,243,myanmar2017_network
+1,Kyaukpyu,10,256,myanmar2017_network
+1,Kyauktaw,1,2666,myanmar2017_network
+1,Kyauktaw,2,2787,myanmar2017_network
+1,Kyauktaw,3,2735,myanmar2017_network
+1,Kyauktaw,4,2708,myanmar2017_network
+1,Kyauktaw,5,2647,myanmar2017_network
+1,Kyauktaw,6,2632,myanmar2017_network
+1,Kyauktaw,7,2765,myanmar2017_network
+1,Kyauktaw,8,2658,myanmar2017_network
+1,Kyauktaw,9,2716,myanmar2017_network
+1,Kyauktaw,10,2753,myanmar2017_network
+1,Maungdaw,1,1622,myanmar2017_network
+1,Maungdaw,2,1632,myanmar2017_network
+1,Maungdaw,3,1632,myanmar2017_network
+1,Maungdaw,4,1581,myanmar2017_network
+1,Maungdaw,5,1625,myanmar2017_network
+1,Maungdaw,6,1651,myanmar2017_network
+1,Maungdaw,7,1736,myanmar2017_network
+1,Maungdaw,8,1559,myanmar2017_network
+1,Maungdaw,9,1630,myanmar2017_network
+1,Maungdaw,10,1588,myanmar2017_network
+1,Myebon,1,6325,myanmar2017_network
+1,Myebon,2,6454,myanmar2017_network
+1,Myebon,3,6405,myanmar2017_network
+1,Myebon,4,6597,myanmar2017_network
+1,Myebon,5,6421,myanmar2017_network
+1,Myebon,6,6473,myanmar2017_network
+1,Myebon,7,6402,myanmar2017_network
+1,Myebon,8,6572,myanmar2017_network
+1,Myebon,9,6466,myanmar2017_network
+1,Myebon,10,6574,myanmar2017_network
+1,Pauktaw,1,2271,myanmar2017_network
+1,Pauktaw,2,2393,myanmar2017_network
+1,Pauktaw,3,2261,myanmar2017_network
+1,Pauktaw,4,2336,myanmar2017_network
+1,Pauktaw,5,2362,myanmar2017_network
+1,Pauktaw,6,2425,myanmar2017_network
+1,Pauktaw,7,2407,myanmar2017_network
+1,Pauktaw,8,2397,myanmar2017_network
+1,Pauktaw,9,2306,myanmar2017_network
+1,Pauktaw,10,2360,myanmar2017_network
+1,Ramree,1,644,myanmar2017_network
+1,Ramree,2,601,myanmar2017_network
+1,Ramree,3,633,myanmar2017_network
+1,Ramree,4,619,myanmar2017_network
+1,Ramree,5,608,myanmar2017_network
+1,Ramree,6,590,myanmar2017_network
+1,Ramree,7,587,myanmar2017_network
+1,Ramree,8,556,myanmar2017_network
+1,Ramree,9,604,myanmar2017_network
+1,Ramree,10,591,myanmar2017_network
+1,Rathedaung,1,4539,myanmar2017_network
+1,Rathedaung,2,4645,myanmar2017_network
+1,Rathedaung,3,4630,myanmar2017_network
+1,Rathedaung,4,4573,myanmar2017_network
+1,Rathedaung,5,4632,myanmar2017_network
+1,Rathedaung,6,4574,myanmar2017_network
+1,Rathedaung,7,4619,myanmar2017_network
+1,Rathedaung,8,4539,myanmar2017_network
+1,Rathedaung,9,4513,myanmar2017_network
+1,Rathedaung,10,4719,myanmar2017_network
+1,Sittwe,1,12473,myanmar2017_network
+1,Sittwe,2,12350,myanmar2017_network
+1,Sittwe,3,12282,myanmar2017_network
+1,Sittwe,4,12149,myanmar2017_network
+1,Sittwe,5,12333,myanmar2017_network
+1,Sittwe,6,12430,myanmar2017_network
+1,Sittwe,7,12395,myanmar2017_network
+1,Sittwe,8,12109,myanmar2017_network
+1,Sittwe,9,12182,myanmar2017_network
+1,Sittwe,10,12317,myanmar2017_network
+2,Cox's Bazar,1,73609,myanmar2017_network
+2,Cox's Bazar,2,73709,myanmar2017_network
+2,Cox's Bazar,3,73903,myanmar2017_network
+2,Cox's Bazar,4,74112,myanmar2017_network
+2,Cox's Bazar,5,73970,myanmar2017_network
+2,Cox's Bazar,6,73806,myanmar2017_network
+2,Cox's Bazar,7,73752,myanmar2017_network
+2,Cox's Bazar,8,73755,myanmar2017_network
+2,Cox's Bazar,9,73940,myanmar2017_network
+2,Cox's Bazar,10,73637,myanmar2017_network
+2,Kyaukpyu,1,247,myanmar2017_network
+2,Kyaukpyu,2,235,myanmar2017_network
+2,Kyaukpyu,3,259,myanmar2017_network
+2,Kyaukpyu,4,223,myanmar2017_network
+2,Kyaukpyu,5,264,myanmar2017_network
+2,Kyaukpyu,6,253,myanmar2017_network
+2,Kyaukpyu,7,237,myanmar2017_network
+2,Kyaukpyu,8,247,myanmar2017_network
+2,Kyaukpyu,9,232,myanmar2017_network
+2,Kyaukpyu,10,239,myanmar2017_network
+2,Kyauktaw,1,4189,myanmar2017_network
+2,Kyauktaw,2,4385,myanmar2017_network
+2,Kyauktaw,3,4303,myanmar2017_network
+2,Kyauktaw,4,4244,myanmar2017_network
+2,Kyauktaw,5,4123,myanmar2017_network
+2,Kyauktaw,6,4227,myanmar2017_network
+2,Kyauktaw,7,4307,myanmar2017_network
+2,Kyauktaw,8,4147,myanmar2017_network
+2,Kyauktaw,9,4284,myanmar2017_network
+2,Kyauktaw,10,4317,myanmar2017_network
+2,Maungdaw,1,1422,myanmar2017_network
+2,Maungdaw,2,1446,myanmar2017_network
+2,Maungdaw,3,1453,myanmar2017_network
+2,Maungdaw,4,1367,myanmar2017_network
+2,Maungdaw,5,1419,myanmar2017_network
+2,Maungdaw,6,1455,myanmar2017_network
+2,Maungdaw,7,1519,myanmar2017_network
+2,Maungdaw,8,1389,myanmar2017_network
+2,Maungdaw,9,1434,myanmar2017_network
+2,Maungdaw,10,1406,myanmar2017_network
+2,Myebon,1,6782,myanmar2017_network
+2,Myebon,2,6864,myanmar2017_network
+2,Myebon,3,6777,myanmar2017_network
+2,Myebon,4,6991,myanmar2017_network
+2,Myebon,5,6851,myanmar2017_network
+2,Myebon,6,6948,myanmar2017_network
+2,Myebon,7,6853,myanmar2017_network
+2,Myebon,8,7049,myanmar2017_network
+2,Myebon,9,6828,myanmar2017_network
+2,Myebon,10,7036,myanmar2017_network
+2,Pauktaw,1,2440,myanmar2017_network
+2,Pauktaw,2,2558,myanmar2017_network
+2,Pauktaw,3,2458,myanmar2017_network
+2,Pauktaw,4,2529,myanmar2017_network
+2,Pauktaw,5,2513,myanmar2017_network
+2,Pauktaw,6,2571,myanmar2017_network
+2,Pauktaw,7,2529,myanmar2017_network
+2,Pauktaw,8,2542,myanmar2017_network
+2,Pauktaw,9,2498,myanmar2017_network
+2,Pauktaw,10,2543,myanmar2017_network
+2,Ramree,1,1536,myanmar2017_network
+2,Ramree,2,1461,myanmar2017_network
+2,Ramree,3,1572,myanmar2017_network
+2,Ramree,4,1519,myanmar2017_network
+2,Ramree,5,1517,myanmar2017_network
+2,Ramree,6,1480,myanmar2017_network
+2,Ramree,7,1468,myanmar2017_network
+2,Ramree,8,1460,myanmar2017_network
+2,Ramree,9,1510,myanmar2017_network
+2,Ramree,10,1463,myanmar2017_network
+2,Rathedaung,1,6127,myanmar2017_network
+2,Rathedaung,2,6059,myanmar2017_network
+2,Rathedaung,3,6152,myanmar2017_network
+2,Rathedaung,4,6050,myanmar2017_network
+2,Rathedaung,5,6267,myanmar2017_network
+2,Rathedaung,6,6217,myanmar2017_network
+2,Rathedaung,7,6167,myanmar2017_network
+2,Rathedaung,8,6075,myanmar2017_network
+2,Rathedaung,9,6040,myanmar2017_network
+2,Rathedaung,10,6313,myanmar2017_network
+2,Sittwe,1,11485,myanmar2017_network
+2,Sittwe,2,11441,myanmar2017_network
+2,Sittwe,3,11443,myanmar2017_network
+2,Sittwe,4,11287,myanmar2017_network
+2,Sittwe,5,11417,myanmar2017_network
+2,Sittwe,6,11424,myanmar2017_network
+2,Sittwe,7,11490,myanmar2017_network
+2,Sittwe,8,11215,myanmar2017_network
+2,Sittwe,9,11288,myanmar2017_network
+2,Sittwe,10,11425,myanmar2017_network
+3,Cox's Bazar,1,75434,myanmar2017_network
+3,Cox's Bazar,2,75445,myanmar2017_network
+3,Cox's Bazar,3,75629,myanmar2017_network
+3,Cox's Bazar,4,75790,myanmar2017_network
+3,Cox's Bazar,5,75746,myanmar2017_network
+3,Cox's Bazar,6,75510,myanmar2017_network
+3,Cox's Bazar,7,75469,myanmar2017_network
+3,Cox's Bazar,8,75450,myanmar2017_network
+3,Cox's Bazar,9,75684,myanmar2017_network
+3,Cox's Bazar,10,75400,myanmar2017_network
+3,Kyaukpyu,1,238,myanmar2017_network
+3,Kyaukpyu,2,229,myanmar2017_network
+3,Kyaukpyu,3,246,myanmar2017_network
+3,Kyaukpyu,4,215,myanmar2017_network
+3,Kyaukpyu,5,258,myanmar2017_network
+3,Kyaukpyu,6,239,myanmar2017_network
+3,Kyaukpyu,7,231,myanmar2017_network
+3,Kyaukpyu,8,237,myanmar2017_network
+3,Kyaukpyu,9,221,myanmar2017_network
+3,Kyaukpyu,10,225,myanmar2017_network
+3,Kyauktaw,1,5594,myanmar2017_network
+3,Kyauktaw,2,5831,myanmar2017_network
+3,Kyauktaw,3,5662,myanmar2017_network
+3,Kyauktaw,4,5704,myanmar2017_network
+3,Kyauktaw,5,5497,myanmar2017_network
+3,Kyauktaw,6,5637,myanmar2017_network
+3,Kyauktaw,7,5651,myanmar2017_network
+3,Kyauktaw,8,5561,myanmar2017_network
+3,Kyauktaw,9,5550,myanmar2017_network
+3,Kyauktaw,10,5664,myanmar2017_network
+3,Maungdaw,1,1470,myanmar2017_network
+3,Maungdaw,2,1484,myanmar2017_network
+3,Maungdaw,3,1510,myanmar2017_network
+3,Maungdaw,4,1415,myanmar2017_network
+3,Maungdaw,5,1455,myanmar2017_network
+3,Maungdaw,6,1492,myanmar2017_network
+3,Maungdaw,7,1538,myanmar2017_network
+3,Maungdaw,8,1451,myanmar2017_network
+3,Maungdaw,9,1455,myanmar2017_network
+3,Maungdaw,10,1456,myanmar2017_network
+3,Myebon,1,7125,myanmar2017_network
+3,Myebon,2,7194,myanmar2017_network
+3,Myebon,3,7020,myanmar2017_network
+3,Myebon,4,7278,myanmar2017_network
+3,Myebon,5,7199,myanmar2017_network
+3,Myebon,6,7286,myanmar2017_network
+3,Myebon,7,7168,myanmar2017_network
+3,Myebon,8,7332,myanmar2017_network
+3,Myebon,9,7168,myanmar2017_network
+3,Myebon,10,7353,myanmar2017_network
+3,Pauktaw,1,2648,myanmar2017_network
+3,Pauktaw,2,2768,myanmar2017_network
+3,Pauktaw,3,2720,myanmar2017_network
+3,Pauktaw,4,2787,myanmar2017_network
+3,Pauktaw,5,2764,myanmar2017_network
+3,Pauktaw,6,2832,myanmar2017_network
+3,Pauktaw,7,2779,myanmar2017_network
+3,Pauktaw,8,2764,myanmar2017_network
+3,Pauktaw,9,2754,myanmar2017_network
+3,Pauktaw,10,2804,myanmar2017_network
+3,Ramree,1,2692,myanmar2017_network
+3,Ramree,2,2553,myanmar2017_network
+3,Ramree,3,2718,myanmar2017_network
+3,Ramree,4,2671,myanmar2017_network
+3,Ramree,5,2679,myanmar2017_network
+3,Ramree,6,2654,myanmar2017_network
+3,Ramree,7,2581,myanmar2017_network
+3,Ramree,8,2646,myanmar2017_network
+3,Ramree,9,2618,myanmar2017_network
+3,Ramree,10,2620,myanmar2017_network
+3,Rathedaung,1,7544,myanmar2017_network
+3,Rathedaung,2,7562,myanmar2017_network
+3,Rathedaung,3,7643,myanmar2017_network
+3,Rathedaung,4,7646,myanmar2017_network
+3,Rathedaung,5,7787,myanmar2017_network
+3,Rathedaung,6,7698,myanmar2017_network
+3,Rathedaung,7,7633,myanmar2017_network
+3,Rathedaung,8,7447,myanmar2017_network
+3,Rathedaung,9,7491,myanmar2017_network
+3,Rathedaung,10,7712,myanmar2017_network
+3,Sittwe,1,10815,myanmar2017_network
+3,Sittwe,2,10741,myanmar2017_network
+3,Sittwe,3,10783,myanmar2017_network
+3,Sittwe,4,10469,myanmar2017_network
+3,Sittwe,5,10733,myanmar2017_network
+3,Sittwe,6,10705,myanmar2017_network
+3,Sittwe,7,10805,myanmar2017_network
+3,Sittwe,8,10600,myanmar2017_network
+3,Sittwe,9,10638,myanmar2017_network
+3,Sittwe,10,10818,myanmar2017_network
+4,Cox's Bazar,1,77127,myanmar2017_network
+4,Cox's Bazar,2,77042,myanmar2017_network
+4,Cox's Bazar,3,77375,myanmar2017_network
+4,Cox's Bazar,4,77427,myanmar2017_network
+4,Cox's Bazar,5,77369,myanmar2017_network
+4,Cox's Bazar,6,77189,myanmar2017_network
+4,Cox's Bazar,7,77232,myanmar2017_network
+4,Cox's Bazar,8,77216,myanmar2017_network
+4,Cox's Bazar,9,77389,myanmar2017_network
+4,Cox's Bazar,10,77052,myanmar2017_network
+4,Kyaukpyu,1,220,myanmar2017_network
+4,Kyaukpyu,2,221,myanmar2017_network
+4,Kyaukpyu,3,234,myanmar2017_network
+4,Kyaukpyu,4,207,myanmar2017_network
+4,Kyaukpyu,5,247,myanmar2017_network
+4,Kyaukpyu,6,230,myanmar2017_network
+4,Kyaukpyu,7,218,myanmar2017_network
+4,Kyaukpyu,8,229,myanmar2017_network
+4,Kyaukpyu,9,211,myanmar2017_network
+4,Kyaukpyu,10,217,myanmar2017_network
+4,Kyauktaw,1,6873,myanmar2017_network
+4,Kyauktaw,2,7088,myanmar2017_network
+4,Kyauktaw,3,6913,myanmar2017_network
+4,Kyauktaw,4,7041,myanmar2017_network
+4,Kyauktaw,5,6878,myanmar2017_network
+4,Kyauktaw,6,6870,myanmar2017_network
+4,Kyauktaw,7,6885,myanmar2017_network
+4,Kyauktaw,8,6796,myanmar2017_network
+4,Kyauktaw,9,6835,myanmar2017_network
+4,Kyauktaw,10,6925,myanmar2017_network
+4,Maungdaw,1,1531,myanmar2017_network
+4,Maungdaw,2,1506,myanmar2017_network
+4,Maungdaw,3,1563,myanmar2017_network
+4,Maungdaw,4,1477,myanmar2017_network
+4,Maungdaw,5,1513,myanmar2017_network
+4,Maungdaw,6,1524,myanmar2017_network
+4,Maungdaw,7,1604,myanmar2017_network
+4,Maungdaw,8,1522,myanmar2017_network
+4,Maungdaw,9,1518,myanmar2017_network
+4,Maungdaw,10,1525,myanmar2017_network
+4,Myebon,1,7421,myanmar2017_network
+4,Myebon,2,7526,myanmar2017_network
+4,Myebon,3,7319,myanmar2017_network
+4,Myebon,4,7544,myanmar2017_network
+4,Myebon,5,7493,myanmar2017_network
+4,Myebon,6,7606,myanmar2017_network
+4,Myebon,7,7471,myanmar2017_network
+4,Myebon,8,7565,myanmar2017_network
+4,Myebon,9,7457,myanmar2017_network
+4,Myebon,10,7593,myanmar2017_network
+4,Pauktaw,1,2969,myanmar2017_network
+4,Pauktaw,2,3135,myanmar2017_network
+4,Pauktaw,3,3042,myanmar2017_network
+4,Pauktaw,4,3185,myanmar2017_network
+4,Pauktaw,5,3119,myanmar2017_network
+4,Pauktaw,6,3249,myanmar2017_network
+4,Pauktaw,7,3154,myanmar2017_network
+4,Pauktaw,8,3178,myanmar2017_network
+4,Pauktaw,9,3112,myanmar2017_network
+4,Pauktaw,10,3173,myanmar2017_network
+4,Ramree,1,4049,myanmar2017_network
+4,Ramree,2,3906,myanmar2017_network
+4,Ramree,3,4081,myanmar2017_network
+4,Ramree,4,4022,myanmar2017_network
+4,Ramree,5,4033,myanmar2017_network
+4,Ramree,6,4052,myanmar2017_network
+4,Ramree,7,3981,myanmar2017_network
+4,Ramree,8,3990,myanmar2017_network
+4,Ramree,9,3974,myanmar2017_network
+4,Ramree,10,4038,myanmar2017_network
+4,Rathedaung,1,8955,myanmar2017_network
+4,Rathedaung,2,8968,myanmar2017_network
+4,Rathedaung,3,8939,myanmar2017_network
+4,Rathedaung,4,8884,myanmar2017_network
+4,Rathedaung,5,9034,myanmar2017_network
+4,Rathedaung,6,9081,myanmar2017_network
+4,Rathedaung,7,8966,myanmar2017_network
+4,Rathedaung,8,8772,myanmar2017_network
+4,Rathedaung,9,8781,myanmar2017_network
+4,Rathedaung,10,8984,myanmar2017_network
+4,Sittwe,1,10242,myanmar2017_network
+4,Sittwe,2,10167,myanmar2017_network
+4,Sittwe,3,10228,myanmar2017_network
+4,Sittwe,4,9977,myanmar2017_network
+4,Sittwe,5,10146,myanmar2017_network
+4,Sittwe,6,10200,myanmar2017_network
+4,Sittwe,7,10305,myanmar2017_network
+4,Sittwe,8,10118,myanmar2017_network
+4,Sittwe,9,10087,myanmar2017_network
+4,Sittwe,10,10212,myanmar2017_network
+5,Cox's Bazar,1,78815,myanmar2017_network
+5,Cox's Bazar,2,78708,myanmar2017_network
+5,Cox's Bazar,3,79046,myanmar2017_network
+5,Cox's Bazar,4,79027,myanmar2017_network
+5,Cox's Bazar,5,79141,myanmar2017_network
+5,Cox's Bazar,6,78876,myanmar2017_network
+5,Cox's Bazar,7,78871,myanmar2017_network
+5,Cox's Bazar,8,78825,myanmar2017_network
+5,Cox's Bazar,9,79032,myanmar2017_network
+5,Cox's Bazar,10,78738,myanmar2017_network
+5,Kyaukpyu,1,213,myanmar2017_network
+5,Kyaukpyu,2,215,myanmar2017_network
+5,Kyaukpyu,3,225,myanmar2017_network
+5,Kyaukpyu,4,200,myanmar2017_network
+5,Kyaukpyu,5,238,myanmar2017_network
+5,Kyaukpyu,6,217,myanmar2017_network
+5,Kyaukpyu,7,208,myanmar2017_network
+5,Kyaukpyu,8,218,myanmar2017_network
+5,Kyaukpyu,9,204,myanmar2017_network
+5,Kyaukpyu,10,212,myanmar2017_network
+5,Kyauktaw,1,8018,myanmar2017_network
+5,Kyauktaw,2,8276,myanmar2017_network
+5,Kyauktaw,3,8022,myanmar2017_network
+5,Kyauktaw,4,8219,myanmar2017_network
+5,Kyauktaw,5,8143,myanmar2017_network
+5,Kyauktaw,6,8087,myanmar2017_network
+5,Kyauktaw,7,8158,myanmar2017_network
+5,Kyauktaw,8,8046,myanmar2017_network
+5,Kyauktaw,9,8089,myanmar2017_network
+5,Kyauktaw,10,8165,myanmar2017_network
+5,Maungdaw,1,1622,myanmar2017_network
+5,Maungdaw,2,1601,myanmar2017_network
+5,Maungdaw,3,1635,myanmar2017_network
+5,Maungdaw,4,1567,myanmar2017_network
+5,Maungdaw,5,1627,myanmar2017_network
+5,Maungdaw,6,1606,myanmar2017_network
+5,Maungdaw,7,1692,myanmar2017_network
+5,Maungdaw,8,1616,myanmar2017_network
+5,Maungdaw,9,1615,myanmar2017_network
+5,Maungdaw,10,1599,myanmar2017_network
+5,Myebon,1,7617,myanmar2017_network
+5,Myebon,2,7789,myanmar2017_network
+5,Myebon,3,7585,myanmar2017_network
+5,Myebon,4,7712,myanmar2017_network
+5,Myebon,5,7677,myanmar2017_network
+5,Myebon,6,7818,myanmar2017_network
+5,Myebon,7,7743,myanmar2017_network
+5,Myebon,8,7787,myanmar2017_network
+5,Myebon,9,7639,myanmar2017_network
+5,Myebon,10,7832,myanmar2017_network
+5,Pauktaw,1,3503,myanmar2017_network
+5,Pauktaw,2,3559,myanmar2017_network
+5,Pauktaw,3,3468,myanmar2017_network
+5,Pauktaw,4,3649,myanmar2017_network
+5,Pauktaw,5,3570,myanmar2017_network
+5,Pauktaw,6,3652,myanmar2017_network
+5,Pauktaw,7,3533,myanmar2017_network
+5,Pauktaw,8,3617,myanmar2017_network
+5,Pauktaw,9,3568,myanmar2017_network
+5,Pauktaw,10,3599,myanmar2017_network
+5,Ramree,1,5600,myanmar2017_network
+5,Ramree,2,5389,myanmar2017_network
+5,Ramree,3,5516,myanmar2017_network
+5,Ramree,4,5517,myanmar2017_network
+5,Ramree,5,5520,myanmar2017_network
+5,Ramree,6,5643,myanmar2017_network
+5,Ramree,7,5427,myanmar2017_network
+5,Ramree,8,5464,myanmar2017_network
+5,Ramree,9,5428,myanmar2017_network
+5,Ramree,10,5613,myanmar2017_network
+5,Rathedaung,1,10173,myanmar2017_network
+5,Rathedaung,2,10205,myanmar2017_network
+5,Rathedaung,3,10120,myanmar2017_network
+5,Rathedaung,4,10094,myanmar2017_network
+5,Rathedaung,5,10085,myanmar2017_network
+5,Rathedaung,6,10206,myanmar2017_network
+5,Rathedaung,7,10142,myanmar2017_network
+5,Rathedaung,8,9866,myanmar2017_network
+5,Rathedaung,9,9952,myanmar2017_network
+5,Rathedaung,10,10214,myanmar2017_network
+5,Sittwe,1,9849,myanmar2017_network
+5,Sittwe,2,9794,myanmar2017_network
+5,Sittwe,3,9962,myanmar2017_network
+5,Sittwe,4,9628,myanmar2017_network
+5,Sittwe,5,9890,myanmar2017_network
+5,Sittwe,6,9937,myanmar2017_network
+5,Sittwe,7,9882,myanmar2017_network
+5,Sittwe,8,9826,myanmar2017_network
+5,Sittwe,9,9810,myanmar2017_network
+5,Sittwe,10,9823,myanmar2017_network
+6,Cox's Bazar,1,80554,myanmar2017_network
+6,Cox's Bazar,2,80479,myanmar2017_network
+6,Cox's Bazar,3,80818,myanmar2017_network
+6,Cox's Bazar,4,80822,myanmar2017_network
+6,Cox's Bazar,5,80855,myanmar2017_network
+6,Cox's Bazar,6,80741,myanmar2017_network
+6,Cox's Bazar,7,80574,myanmar2017_network
+6,Cox's Bazar,8,80655,myanmar2017_network
+6,Cox's Bazar,9,80743,myanmar2017_network
+6,Cox's Bazar,10,80522,myanmar2017_network
+6,Kyaukpyu,1,200,myanmar2017_network
+6,Kyaukpyu,2,205,myanmar2017_network
+6,Kyaukpyu,3,215,myanmar2017_network
+6,Kyaukpyu,4,187,myanmar2017_network
+6,Kyaukpyu,5,227,myanmar2017_network
+6,Kyaukpyu,6,206,myanmar2017_network
+6,Kyaukpyu,7,200,myanmar2017_network
+6,Kyaukpyu,8,203,myanmar2017_network
+6,Kyaukpyu,9,197,myanmar2017_network
+6,Kyaukpyu,10,208,myanmar2017_network
+6,Kyauktaw,1,9125,myanmar2017_network
+6,Kyauktaw,2,9487,myanmar2017_network
+6,Kyauktaw,3,9225,myanmar2017_network
+6,Kyauktaw,4,9343,myanmar2017_network
+6,Kyauktaw,5,9289,myanmar2017_network
+6,Kyauktaw,6,9265,myanmar2017_network
+6,Kyauktaw,7,9383,myanmar2017_network
+6,Kyauktaw,8,9310,myanmar2017_network
+6,Kyauktaw,9,9283,myanmar2017_network
+6,Kyauktaw,10,9402,myanmar2017_network
+6,Maungdaw,1,1848,myanmar2017_network
+6,Maungdaw,2,1855,myanmar2017_network
+6,Maungdaw,3,1885,myanmar2017_network
+6,Maungdaw,4,1819,myanmar2017_network
+6,Maungdaw,5,1877,myanmar2017_network
+6,Maungdaw,6,1831,myanmar2017_network
+6,Maungdaw,7,1939,myanmar2017_network
+6,Maungdaw,8,1868,myanmar2017_network
+6,Maungdaw,9,1881,myanmar2017_network
+6,Maungdaw,10,1806,myanmar2017_network
+6,Myebon,1,7911,myanmar2017_network
+6,Myebon,2,8061,myanmar2017_network
+6,Myebon,3,7818,myanmar2017_network
+6,Myebon,4,8035,myanmar2017_network
+6,Myebon,5,7944,myanmar2017_network
+6,Myebon,6,8004,myanmar2017_network
+6,Myebon,7,8017,myanmar2017_network
+6,Myebon,8,8122,myanmar2017_network
+6,Myebon,9,7880,myanmar2017_network
+6,Myebon,10,8038,myanmar2017_network
+6,Pauktaw,1,3942,myanmar2017_network
+6,Pauktaw,2,3959,myanmar2017_network
+6,Pauktaw,3,3888,myanmar2017_network
+6,Pauktaw,4,4091,myanmar2017_network
+6,Pauktaw,5,4047,myanmar2017_network
+6,Pauktaw,6,4093,myanmar2017_network
+6,Pauktaw,7,3985,myanmar2017_network
+6,Pauktaw,8,3999,myanmar2017_network
+6,Pauktaw,9,3978,myanmar2017_network
+6,Pauktaw,10,4012,myanmar2017_network
+6,Ramree,1,7140,myanmar2017_network
+6,Ramree,2,6962,myanmar2017_network
+6,Ramree,3,7100,myanmar2017_network
+6,Ramree,4,7038,myanmar2017_network
+6,Ramree,5,7152,myanmar2017_network
+6,Ramree,6,7330,myanmar2017_network
+6,Ramree,7,7011,myanmar2017_network
+6,Ramree,8,6988,myanmar2017_network
+6,Ramree,9,7043,myanmar2017_network
+6,Ramree,10,7228,myanmar2017_network
+6,Rathedaung,1,11405,myanmar2017_network
+6,Rathedaung,2,11431,myanmar2017_network
+6,Rathedaung,3,11344,myanmar2017_network
+6,Rathedaung,4,11279,myanmar2017_network
+6,Rathedaung,5,11340,myanmar2017_network
+6,Rathedaung,6,11523,myanmar2017_network
+6,Rathedaung,7,11443,myanmar2017_network
+6,Rathedaung,8,11073,myanmar2017_network
+6,Rathedaung,9,11279,myanmar2017_network
+6,Rathedaung,10,11429,myanmar2017_network
+6,Sittwe,1,9668,myanmar2017_network
+6,Sittwe,2,9603,myanmar2017_network
+6,Sittwe,3,9629,myanmar2017_network
+6,Sittwe,4,9495,myanmar2017_network
+6,Sittwe,5,9678,myanmar2017_network
+6,Sittwe,6,9715,myanmar2017_network
+6,Sittwe,7,9668,myanmar2017_network
+6,Sittwe,8,9551,myanmar2017_network
+6,Sittwe,9,9734,myanmar2017_network
+6,Sittwe,10,9684,myanmar2017_network
+7,Cox's Bazar,1,82328,myanmar2017_network
+7,Cox's Bazar,2,82194,myanmar2017_network
+7,Cox's Bazar,3,82645,myanmar2017_network
+7,Cox's Bazar,4,82459,myanmar2017_network
+7,Cox's Bazar,5,82622,myanmar2017_network
+7,Cox's Bazar,6,82416,myanmar2017_network
+7,Cox's Bazar,7,82290,myanmar2017_network
+7,Cox's Bazar,8,82383,myanmar2017_network
+7,Cox's Bazar,9,82511,myanmar2017_network
+7,Cox's Bazar,10,82209,myanmar2017_network
+7,Kyaukpyu,1,193,myanmar2017_network
+7,Kyaukpyu,2,195,myanmar2017_network
+7,Kyaukpyu,3,208,myanmar2017_network
+7,Kyaukpyu,4,171,myanmar2017_network
+7,Kyaukpyu,5,219,myanmar2017_network
+7,Kyaukpyu,6,198,myanmar2017_network
+7,Kyaukpyu,7,193,myanmar2017_network
+7,Kyaukpyu,8,193,myanmar2017_network
+7,Kyaukpyu,9,187,myanmar2017_network
+7,Kyaukpyu,10,198,myanmar2017_network
+7,Kyauktaw,1,10262,myanmar2017_network
+7,Kyauktaw,2,10657,myanmar2017_network
+7,Kyauktaw,3,10402,myanmar2017_network
+7,Kyauktaw,4,10613,myanmar2017_network
+7,Kyauktaw,5,10400,myanmar2017_network
+7,Kyauktaw,6,10537,myanmar2017_network
+7,Kyauktaw,7,10526,myanmar2017_network
+7,Kyauktaw,8,10501,myanmar2017_network
+7,Kyauktaw,9,10509,myanmar2017_network
+7,Kyauktaw,10,10540,myanmar2017_network
+7,Maungdaw,1,2134,myanmar2017_network
+7,Maungdaw,2,2121,myanmar2017_network
+7,Maungdaw,3,2133,myanmar2017_network
+7,Maungdaw,4,2077,myanmar2017_network
+7,Maungdaw,5,2103,myanmar2017_network
+7,Maungdaw,6,2068,myanmar2017_network
+7,Maungdaw,7,2203,myanmar2017_network
+7,Maungdaw,8,2107,myanmar2017_network
+7,Maungdaw,9,2116,myanmar2017_network
+7,Maungdaw,10,2066,myanmar2017_network
+7,Myebon,1,8194,myanmar2017_network
+7,Myebon,2,8344,myanmar2017_network
+7,Myebon,3,8058,myanmar2017_network
+7,Myebon,4,8313,myanmar2017_network
+7,Myebon,5,8181,myanmar2017_network
+7,Myebon,6,8233,myanmar2017_network
+7,Myebon,7,8344,myanmar2017_network
+7,Myebon,8,8389,myanmar2017_network
+7,Myebon,9,8146,myanmar2017_network
+7,Myebon,10,8260,myanmar2017_network
+7,Pauktaw,1,4413,myanmar2017_network
+7,Pauktaw,2,4377,myanmar2017_network
+7,Pauktaw,3,4317,myanmar2017_network
+7,Pauktaw,4,4431,myanmar2017_network
+7,Pauktaw,5,4459,myanmar2017_network
+7,Pauktaw,6,4500,myanmar2017_network
+7,Pauktaw,7,4458,myanmar2017_network
+7,Pauktaw,8,4415,myanmar2017_network
+7,Pauktaw,9,4438,myanmar2017_network
+7,Pauktaw,10,4498,myanmar2017_network
+7,Ramree,1,8793,myanmar2017_network
+7,Ramree,2,8698,myanmar2017_network
+7,Ramree,3,8855,myanmar2017_network
+7,Ramree,4,8770,myanmar2017_network
+7,Ramree,5,8898,myanmar2017_network
+7,Ramree,6,9164,myanmar2017_network
+7,Ramree,7,8798,myanmar2017_network
+7,Ramree,8,8723,myanmar2017_network
+7,Ramree,9,8811,myanmar2017_network
+7,Ramree,10,9010,myanmar2017_network
+7,Rathedaung,1,12804,myanmar2017_network
+7,Rathedaung,2,12875,myanmar2017_network
+7,Rathedaung,3,12697,myanmar2017_network
+7,Rathedaung,4,12704,myanmar2017_network
+7,Rathedaung,5,12713,myanmar2017_network
+7,Rathedaung,6,12906,myanmar2017_network
+7,Rathedaung,7,12810,myanmar2017_network
+7,Rathedaung,8,12445,myanmar2017_network
+7,Rathedaung,9,12720,myanmar2017_network
+7,Rathedaung,10,12806,myanmar2017_network
+7,Sittwe,1,9773,myanmar2017_network
+7,Sittwe,2,9696,myanmar2017_network
+7,Sittwe,3,9711,myanmar2017_network
+7,Sittwe,4,9619,myanmar2017_network
+7,Sittwe,5,9809,myanmar2017_network
+7,Sittwe,6,9779,myanmar2017_network
+7,Sittwe,7,9737,myanmar2017_network
+7,Sittwe,8,9659,myanmar2017_network
+7,Sittwe,9,9879,myanmar2017_network
+7,Sittwe,10,9866,myanmar2017_network
+8,Cox's Bazar,1,84258,myanmar2017_network
+8,Cox's Bazar,2,84064,myanmar2017_network
+8,Cox's Bazar,3,84499,myanmar2017_network
+8,Cox's Bazar,4,84426,myanmar2017_network
+8,Cox's Bazar,5,84571,myanmar2017_network
+8,Cox's Bazar,6,84356,myanmar2017_network
+8,Cox's Bazar,7,84238,myanmar2017_network
+8,Cox's Bazar,8,84245,myanmar2017_network
+8,Cox's Bazar,9,84463,myanmar2017_network
+8,Cox's Bazar,10,84016,myanmar2017_network
+8,Kyaukpyu,1,180,myanmar2017_network
+8,Kyaukpyu,2,185,myanmar2017_network
+8,Kyaukpyu,3,199,myanmar2017_network
+8,Kyaukpyu,4,159,myanmar2017_network
+8,Kyaukpyu,5,209,myanmar2017_network
+8,Kyaukpyu,6,191,myanmar2017_network
+8,Kyaukpyu,7,185,myanmar2017_network
+8,Kyaukpyu,8,185,myanmar2017_network
+8,Kyaukpyu,9,178,myanmar2017_network
+8,Kyaukpyu,10,191,myanmar2017_network
+8,Kyauktaw,1,11483,myanmar2017_network
+8,Kyauktaw,2,11736,myanmar2017_network
+8,Kyauktaw,3,11494,myanmar2017_network
+8,Kyauktaw,4,11652,myanmar2017_network
+8,Kyauktaw,5,11580,myanmar2017_network
+8,Kyauktaw,6,11725,myanmar2017_network
+8,Kyauktaw,7,11747,myanmar2017_network
+8,Kyauktaw,8,11667,myanmar2017_network
+8,Kyauktaw,9,11689,myanmar2017_network
+8,Kyauktaw,10,11716,myanmar2017_network
+8,Maungdaw,1,2363,myanmar2017_network
+8,Maungdaw,2,2321,myanmar2017_network
+8,Maungdaw,3,2357,myanmar2017_network
+8,Maungdaw,4,2291,myanmar2017_network
+8,Maungdaw,5,2370,myanmar2017_network
+8,Maungdaw,6,2280,myanmar2017_network
+8,Maungdaw,7,2453,myanmar2017_network
+8,Maungdaw,8,2336,myanmar2017_network
+8,Maungdaw,9,2368,myanmar2017_network
+8,Maungdaw,10,2340,myanmar2017_network
+8,Myebon,1,8425,myanmar2017_network
+8,Myebon,2,8625,myanmar2017_network
+8,Myebon,3,8327,myanmar2017_network
+8,Myebon,4,8503,myanmar2017_network
+8,Myebon,5,8379,myanmar2017_network
+8,Myebon,6,8486,myanmar2017_network
+8,Myebon,7,8599,myanmar2017_network
+8,Myebon,8,8671,myanmar2017_network
+8,Myebon,9,8344,myanmar2017_network
+8,Myebon,10,8605,myanmar2017_network
+8,Pauktaw,1,4812,myanmar2017_network
+8,Pauktaw,2,4908,myanmar2017_network
+8,Pauktaw,3,4793,myanmar2017_network
+8,Pauktaw,4,4903,myanmar2017_network
+8,Pauktaw,5,4916,myanmar2017_network
+8,Pauktaw,6,4937,myanmar2017_network
+8,Pauktaw,7,4923,myanmar2017_network
+8,Pauktaw,8,4888,myanmar2017_network
+8,Pauktaw,9,4876,myanmar2017_network
+8,Pauktaw,10,4974,myanmar2017_network
+8,Ramree,1,10748,myanmar2017_network
+8,Ramree,2,10656,myanmar2017_network
+8,Ramree,3,10806,myanmar2017_network
+8,Ramree,4,10729,myanmar2017_network
+8,Ramree,5,10902,myanmar2017_network
+8,Ramree,6,11177,myanmar2017_network
+8,Ramree,7,10746,myanmar2017_network
+8,Ramree,8,10657,myanmar2017_network
+8,Ramree,9,10752,myanmar2017_network
+8,Ramree,10,10997,myanmar2017_network
+8,Rathedaung,1,14093,myanmar2017_network
+8,Rathedaung,2,14097,myanmar2017_network
+8,Rathedaung,3,14028,myanmar2017_network
+8,Rathedaung,4,14022,myanmar2017_network
+8,Rathedaung,5,14023,myanmar2017_network
+8,Rathedaung,6,14221,myanmar2017_network
+8,Rathedaung,7,14126,myanmar2017_network
+8,Rathedaung,8,13815,myanmar2017_network
+8,Rathedaung,9,14075,myanmar2017_network
+8,Rathedaung,10,14097,myanmar2017_network
+8,Sittwe,1,10125,myanmar2017_network
+8,Sittwe,2,10125,myanmar2017_network
+8,Sittwe,3,10117,myanmar2017_network
+8,Sittwe,4,10068,myanmar2017_network
+8,Sittwe,5,10107,myanmar2017_network
+8,Sittwe,6,10129,myanmar2017_network
+8,Sittwe,7,10051,myanmar2017_network
+8,Sittwe,8,9951,myanmar2017_network
+8,Sittwe,9,10198,myanmar2017_network
+8,Sittwe,10,10055,myanmar2017_network
+9,Cox's Bazar,1,86245,myanmar2017_network
+9,Cox's Bazar,2,86075,myanmar2017_network
+9,Cox's Bazar,3,86479,myanmar2017_network
+9,Cox's Bazar,4,86504,myanmar2017_network
+9,Cox's Bazar,5,86514,myanmar2017_network
+9,Cox's Bazar,6,86394,myanmar2017_network
+9,Cox's Bazar,7,86220,myanmar2017_network
+9,Cox's Bazar,8,86234,myanmar2017_network
+9,Cox's Bazar,9,86434,myanmar2017_network
+9,Cox's Bazar,10,86082,myanmar2017_network
+9,Kyaukpyu,1,171,myanmar2017_network
+9,Kyaukpyu,2,175,myanmar2017_network
+9,Kyaukpyu,3,189,myanmar2017_network
+9,Kyaukpyu,4,151,myanmar2017_network
+9,Kyaukpyu,5,197,myanmar2017_network
+9,Kyaukpyu,6,188,myanmar2017_network
+9,Kyaukpyu,7,172,myanmar2017_network
+9,Kyaukpyu,8,181,myanmar2017_network
+9,Kyaukpyu,9,174,myanmar2017_network
+9,Kyaukpyu,10,186,myanmar2017_network
+9,Kyauktaw,1,12713,myanmar2017_network
+9,Kyauktaw,2,12988,myanmar2017_network
+9,Kyauktaw,3,12563,myanmar2017_network
+9,Kyauktaw,4,12781,myanmar2017_network
+9,Kyauktaw,5,12721,myanmar2017_network
+9,Kyauktaw,6,12876,myanmar2017_network
+9,Kyauktaw,7,12968,myanmar2017_network
+9,Kyauktaw,8,12758,myanmar2017_network
+9,Kyauktaw,9,12937,myanmar2017_network
+9,Kyauktaw,10,12818,myanmar2017_network
+9,Maungdaw,1,2578,myanmar2017_network
+9,Maungdaw,2,2568,myanmar2017_network
+9,Maungdaw,3,2619,myanmar2017_network
+9,Maungdaw,4,2493,myanmar2017_network
+9,Maungdaw,5,2573,myanmar2017_network
+9,Maungdaw,6,2528,myanmar2017_network
+9,Maungdaw,7,2663,myanmar2017_network
+9,Maungdaw,8,2547,myanmar2017_network
+9,Maungdaw,9,2532,myanmar2017_network
+9,Maungdaw,10,2592,myanmar2017_network
+9,Myebon,1,8712,myanmar2017_network
+9,Myebon,2,8899,myanmar2017_network
+9,Myebon,3,8617,myanmar2017_network
+9,Myebon,4,8711,myanmar2017_network
+9,Myebon,5,8643,myanmar2017_network
+9,Myebon,6,8777,myanmar2017_network
+9,Myebon,7,8863,myanmar2017_network
+9,Myebon,8,8911,myanmar2017_network
+9,Myebon,9,8637,myanmar2017_network
+9,Myebon,10,8893,myanmar2017_network
+9,Pauktaw,1,5229,myanmar2017_network
+9,Pauktaw,2,5266,myanmar2017_network
+9,Pauktaw,3,5214,myanmar2017_network
+9,Pauktaw,4,5288,myanmar2017_network
+9,Pauktaw,5,5387,myanmar2017_network
+9,Pauktaw,6,5347,myanmar2017_network
+9,Pauktaw,7,5437,myanmar2017_network
+9,Pauktaw,8,5392,myanmar2017_network
+9,Pauktaw,9,5305,myanmar2017_network
+9,Pauktaw,10,5343,myanmar2017_network
+9,Ramree,1,12856,myanmar2017_network
+9,Ramree,2,12824,myanmar2017_network
+9,Ramree,3,12766,myanmar2017_network
+9,Ramree,4,12927,myanmar2017_network
+9,Ramree,5,13032,myanmar2017_network
+9,Ramree,6,13322,myanmar2017_network
+9,Ramree,7,12792,myanmar2017_network
+9,Ramree,8,12729,myanmar2017_network
+9,Ramree,9,12853,myanmar2017_network
+9,Ramree,10,13125,myanmar2017_network
+9,Rathedaung,1,15300,myanmar2017_network
+9,Rathedaung,2,15348,myanmar2017_network
+9,Rathedaung,3,15358,myanmar2017_network
+9,Rathedaung,4,15245,myanmar2017_network
+9,Rathedaung,5,15275,myanmar2017_network
+9,Rathedaung,6,15488,myanmar2017_network
+9,Rathedaung,7,15373,myanmar2017_network
+9,Rathedaung,8,15025,myanmar2017_network
+9,Rathedaung,9,15317,myanmar2017_network
+9,Rathedaung,10,15431,myanmar2017_network
+9,Sittwe,1,10560,myanmar2017_network
+9,Sittwe,2,10537,myanmar2017_network
+9,Sittwe,3,10480,myanmar2017_network
+9,Sittwe,4,10515,myanmar2017_network
+9,Sittwe,5,10644,myanmar2017_network
+9,Sittwe,6,10482,myanmar2017_network
+9,Sittwe,7,10543,myanmar2017_network
+9,Sittwe,8,10455,myanmar2017_network
+9,Sittwe,9,10621,myanmar2017_network
+9,Sittwe,10,10477,myanmar2017_network
+10,Cox's Bazar,1,88201,myanmar2017_network
+10,Cox's Bazar,2,88053,myanmar2017_network
+10,Cox's Bazar,3,88585,myanmar2017_network
+10,Cox's Bazar,4,88510,myanmar2017_network
+10,Cox's Bazar,5,88510,myanmar2017_network
+10,Cox's Bazar,6,88425,myanmar2017_network
+10,Cox's Bazar,7,88161,myanmar2017_network
+10,Cox's Bazar,8,88228,myanmar2017_network
+10,Cox's Bazar,9,88453,myanmar2017_network
+10,Cox's Bazar,10,88131,myanmar2017_network
+10,Kyaukpyu,1,162,myanmar2017_network
+10,Kyaukpyu,2,170,myanmar2017_network
+10,Kyaukpyu,3,178,myanmar2017_network
+10,Kyaukpyu,4,143,myanmar2017_network
+10,Kyaukpyu,5,191,myanmar2017_network
+10,Kyaukpyu,6,173,myanmar2017_network
+10,Kyaukpyu,7,161,myanmar2017_network
+10,Kyaukpyu,8,173,myanmar2017_network
+10,Kyaukpyu,9,166,myanmar2017_network
+10,Kyaukpyu,10,178,myanmar2017_network
+10,Kyauktaw,1,13856,myanmar2017_network
+10,Kyauktaw,2,14089,myanmar2017_network
+10,Kyauktaw,3,13691,myanmar2017_network
+10,Kyauktaw,4,13853,myanmar2017_network
+10,Kyauktaw,5,13821,myanmar2017_network
+10,Kyauktaw,6,13953,myanmar2017_network
+10,Kyauktaw,7,14039,myanmar2017_network
+10,Kyauktaw,8,13793,myanmar2017_network
+10,Kyauktaw,9,14112,myanmar2017_network
+10,Kyauktaw,10,13891,myanmar2017_network
+10,Maungdaw,1,2798,myanmar2017_network
+10,Maungdaw,2,2827,myanmar2017_network
+10,Maungdaw,3,2801,myanmar2017_network
+10,Maungdaw,4,2749,myanmar2017_network
+10,Maungdaw,5,2794,myanmar2017_network
+10,Maungdaw,6,2740,myanmar2017_network
+10,Maungdaw,7,2874,myanmar2017_network
+10,Maungdaw,8,2757,myanmar2017_network
+10,Maungdaw,9,2751,myanmar2017_network
+10,Maungdaw,10,2834,myanmar2017_network
+10,Myebon,1,9006,myanmar2017_network
+10,Myebon,2,9154,myanmar2017_network
+10,Myebon,3,8940,myanmar2017_network
+10,Myebon,4,9009,myanmar2017_network
+10,Myebon,5,9018,myanmar2017_network
+10,Myebon,6,9117,myanmar2017_network
+10,Myebon,7,9174,myanmar2017_network
+10,Myebon,8,9166,myanmar2017_network
+10,Myebon,9,8966,myanmar2017_network
+10,Myebon,10,9174,myanmar2017_network
+10,Pauktaw,1,5711,myanmar2017_network
+10,Pauktaw,2,5708,myanmar2017_network
+10,Pauktaw,3,5620,myanmar2017_network
+10,Pauktaw,4,5727,myanmar2017_network
+10,Pauktaw,5,5748,myanmar2017_network
+10,Pauktaw,6,5790,myanmar2017_network
+10,Pauktaw,7,5935,myanmar2017_network
+10,Pauktaw,8,5802,myanmar2017_network
+10,Pauktaw,9,5746,myanmar2017_network
+10,Pauktaw,10,5752,myanmar2017_network
+10,Ramree,1,15236,myanmar2017_network
+10,Ramree,2,15333,myanmar2017_network
+10,Ramree,3,15009,myanmar2017_network
+10,Ramree,4,15286,myanmar2017_network
+10,Ramree,5,15239,myanmar2017_network
+10,Ramree,6,15702,myanmar2017_network
+10,Ramree,7,15118,myanmar2017_network
+10,Ramree,8,15025,myanmar2017_network
+10,Ramree,9,15113,myanmar2017_network
+10,Ramree,10,15491,myanmar2017_network
+10,Rathedaung,1,16556,myanmar2017_network
+10,Rathedaung,2,16575,myanmar2017_network
+10,Rathedaung,3,16515,myanmar2017_network
+10,Rathedaung,4,16471,myanmar2017_network
+10,Rathedaung,5,16470,myanmar2017_network
+10,Rathedaung,6,16740,myanmar2017_network
+10,Rathedaung,7,16516,myanmar2017_network
+10,Rathedaung,8,16210,myanmar2017_network
+10,Rathedaung,9,16675,myanmar2017_network
+10,Rathedaung,10,16657,myanmar2017_network
+10,Sittwe,1,11009,myanmar2017_network
+10,Sittwe,2,11051,myanmar2017_network
+10,Sittwe,3,11028,myanmar2017_network
+10,Sittwe,4,10971,myanmar2017_network
+10,Sittwe,5,11158,myanmar2017_network
+10,Sittwe,6,11018,myanmar2017_network
+10,Sittwe,7,11064,myanmar2017_network
+10,Sittwe,8,11011,myanmar2017_network
+10,Sittwe,9,11106,myanmar2017_network
+10,Sittwe,10,10967,myanmar2017_network
+11,Cox's Bazar,1,90196,myanmar2017_network
+11,Cox's Bazar,2,90069,myanmar2017_network
+11,Cox's Bazar,3,90605,myanmar2017_network
+11,Cox's Bazar,4,90588,myanmar2017_network
+11,Cox's Bazar,5,90577,myanmar2017_network
+11,Cox's Bazar,6,90459,myanmar2017_network
+11,Cox's Bazar,7,90216,myanmar2017_network
+11,Cox's Bazar,8,90258,myanmar2017_network
+11,Cox's Bazar,9,90477,myanmar2017_network
+11,Cox's Bazar,10,90222,myanmar2017_network
+11,Kyaukpyu,1,155,myanmar2017_network
+11,Kyaukpyu,2,167,myanmar2017_network
+11,Kyaukpyu,3,169,myanmar2017_network
+11,Kyaukpyu,4,140,myanmar2017_network
+11,Kyaukpyu,5,179,myanmar2017_network
+11,Kyaukpyu,6,167,myanmar2017_network
+11,Kyaukpyu,7,151,myanmar2017_network
+11,Kyaukpyu,8,167,myanmar2017_network
+11,Kyaukpyu,9,157,myanmar2017_network
+11,Kyaukpyu,10,171,myanmar2017_network
+11,Kyauktaw,1,14846,myanmar2017_network
+11,Kyauktaw,2,15111,myanmar2017_network
+11,Kyauktaw,3,14776,myanmar2017_network
+11,Kyauktaw,4,14910,myanmar2017_network
+11,Kyauktaw,5,14875,myanmar2017_network
+11,Kyauktaw,6,14906,myanmar2017_network
+11,Kyauktaw,7,15089,myanmar2017_network
+11,Kyauktaw,8,14826,myanmar2017_network
+11,Kyauktaw,9,15098,myanmar2017_network
+11,Kyauktaw,10,14959,myanmar2017_network
+11,Maungdaw,1,3007,myanmar2017_network
+11,Maungdaw,2,3079,myanmar2017_network
+11,Maungdaw,3,3046,myanmar2017_network
+11,Maungdaw,4,2936,myanmar2017_network
+11,Maungdaw,5,3019,myanmar2017_network
+11,Maungdaw,6,2924,myanmar2017_network
+11,Maungdaw,7,3099,myanmar2017_network
+11,Maungdaw,8,2967,myanmar2017_network
+11,Maungdaw,9,2964,myanmar2017_network
+11,Maungdaw,10,3040,myanmar2017_network
+11,Myebon,1,9368,myanmar2017_network
+11,Myebon,2,9546,myanmar2017_network
+11,Myebon,3,9284,myanmar2017_network
+11,Myebon,4,9347,myanmar2017_network
+11,Myebon,5,9364,myanmar2017_network
+11,Myebon,6,9460,myanmar2017_network
+11,Myebon,7,9413,myanmar2017_network
+11,Myebon,8,9463,myanmar2017_network
+11,Myebon,9,9301,myanmar2017_network
+11,Myebon,10,9513,myanmar2017_network
+11,Pauktaw,1,6182,myanmar2017_network
+11,Pauktaw,2,6258,myanmar2017_network
+11,Pauktaw,3,6099,myanmar2017_network
+11,Pauktaw,4,6211,myanmar2017_network
+11,Pauktaw,5,6264,myanmar2017_network
+11,Pauktaw,6,6294,myanmar2017_network
+11,Pauktaw,7,6429,myanmar2017_network
+11,Pauktaw,8,6330,myanmar2017_network
+11,Pauktaw,9,6235,myanmar2017_network
+11,Pauktaw,10,6220,myanmar2017_network
+11,Ramree,1,17592,myanmar2017_network
+11,Ramree,2,17739,myanmar2017_network
+11,Ramree,3,17437,myanmar2017_network
+11,Ramree,4,17766,myanmar2017_network
+11,Ramree,5,17775,myanmar2017_network
+11,Ramree,6,18162,myanmar2017_network
+11,Ramree,7,17572,myanmar2017_network
+11,Ramree,8,17517,myanmar2017_network
+11,Ramree,9,17486,myanmar2017_network
+11,Ramree,10,17994,myanmar2017_network
+11,Rathedaung,1,17745,myanmar2017_network
+11,Rathedaung,2,17663,myanmar2017_network
+11,Rathedaung,3,17783,myanmar2017_network
+11,Rathedaung,4,17591,myanmar2017_network
+11,Rathedaung,5,17666,myanmar2017_network
+11,Rathedaung,6,17935,myanmar2017_network
+11,Rathedaung,7,17753,myanmar2017_network
+11,Rathedaung,8,17428,myanmar2017_network
+11,Rathedaung,9,17807,myanmar2017_network
+11,Rathedaung,10,17825,myanmar2017_network
+11,Sittwe,1,11498,myanmar2017_network
+11,Sittwe,2,11553,myanmar2017_network
+11,Sittwe,3,11477,myanmar2017_network
+11,Sittwe,4,11536,myanmar2017_network
+11,Sittwe,5,11610,myanmar2017_network
+11,Sittwe,6,11642,myanmar2017_network
+11,Sittwe,7,11671,myanmar2017_network
+11,Sittwe,8,11555,myanmar2017_network
+11,Sittwe,9,11692,myanmar2017_network
+11,Sittwe,10,11556,myanmar2017_network
+12,Cox's Bazar,1,92247,myanmar2017_network
+12,Cox's Bazar,2,92085,myanmar2017_network
+12,Cox's Bazar,3,92729,myanmar2017_network
+12,Cox's Bazar,4,92618,myanmar2017_network
+12,Cox's Bazar,5,92652,myanmar2017_network
+12,Cox's Bazar,6,92490,myanmar2017_network
+12,Cox's Bazar,7,92286,myanmar2017_network
+12,Cox's Bazar,8,92224,myanmar2017_network
+12,Cox's Bazar,9,92488,myanmar2017_network
+12,Cox's Bazar,10,92307,myanmar2017_network
+12,Kyaukpyu,1,152,myanmar2017_network
+12,Kyaukpyu,2,164,myanmar2017_network
+12,Kyaukpyu,3,162,myanmar2017_network
+12,Kyaukpyu,4,137,myanmar2017_network
+12,Kyaukpyu,5,174,myanmar2017_network
+12,Kyaukpyu,6,160,myanmar2017_network
+12,Kyaukpyu,7,144,myanmar2017_network
+12,Kyaukpyu,8,162,myanmar2017_network
+12,Kyaukpyu,9,152,myanmar2017_network
+12,Kyaukpyu,10,161,myanmar2017_network
+12,Kyauktaw,1,15957,myanmar2017_network
+12,Kyauktaw,2,16080,myanmar2017_network
+12,Kyauktaw,3,15791,myanmar2017_network
+12,Kyauktaw,4,15975,myanmar2017_network
+12,Kyauktaw,5,15954,myanmar2017_network
+12,Kyauktaw,6,15964,myanmar2017_network
+12,Kyauktaw,7,16203,myanmar2017_network
+12,Kyauktaw,8,15727,myanmar2017_network
+12,Kyauktaw,9,15958,myanmar2017_network
+12,Kyauktaw,10,15924,myanmar2017_network
+12,Maungdaw,1,3234,myanmar2017_network
+12,Maungdaw,2,3260,myanmar2017_network
+12,Maungdaw,3,3282,myanmar2017_network
+12,Maungdaw,4,3161,myanmar2017_network
+12,Maungdaw,5,3263,myanmar2017_network
+12,Maungdaw,6,3144,myanmar2017_network
+12,Maungdaw,7,3318,myanmar2017_network
+12,Maungdaw,8,3235,myanmar2017_network
+12,Maungdaw,9,3166,myanmar2017_network
+12,Maungdaw,10,3220,myanmar2017_network
+12,Myebon,1,9656,myanmar2017_network
+12,Myebon,2,9922,myanmar2017_network
+12,Myebon,3,9609,myanmar2017_network
+12,Myebon,4,9725,myanmar2017_network
+12,Myebon,5,9684,myanmar2017_network
+12,Myebon,6,9795,myanmar2017_network
+12,Myebon,7,9781,myanmar2017_network
+12,Myebon,8,9843,myanmar2017_network
+12,Myebon,9,9639,myanmar2017_network
+12,Myebon,10,9850,myanmar2017_network
+12,Pauktaw,1,6643,myanmar2017_network
+12,Pauktaw,2,6762,myanmar2017_network
+12,Pauktaw,3,6658,myanmar2017_network
+12,Pauktaw,4,6677,myanmar2017_network
+12,Pauktaw,5,6753,myanmar2017_network
+12,Pauktaw,6,6775,myanmar2017_network
+12,Pauktaw,7,6918,myanmar2017_network
+12,Pauktaw,8,6846,myanmar2017_network
+12,Pauktaw,9,6797,myanmar2017_network
+12,Pauktaw,10,6685,myanmar2017_network
+12,Ramree,1,20162,myanmar2017_network
+12,Ramree,2,20341,myanmar2017_network
+12,Ramree,3,19965,myanmar2017_network
+12,Ramree,4,20225,myanmar2017_network
+12,Ramree,5,20428,myanmar2017_network
+12,Ramree,6,20767,myanmar2017_network
+12,Ramree,7,20094,myanmar2017_network
+12,Ramree,8,20105,myanmar2017_network
+12,Ramree,9,20070,myanmar2017_network
+12,Ramree,10,20636,myanmar2017_network
+12,Rathedaung,1,18881,myanmar2017_network
+12,Rathedaung,2,18823,myanmar2017_network
+12,Rathedaung,3,18924,myanmar2017_network
+12,Rathedaung,4,18590,myanmar2017_network
+12,Rathedaung,5,18805,myanmar2017_network
+12,Rathedaung,6,19090,myanmar2017_network
+12,Rathedaung,7,18890,myanmar2017_network
+12,Rathedaung,8,18552,myanmar2017_network
+12,Rathedaung,9,18871,myanmar2017_network
+12,Rathedaung,10,19039,myanmar2017_network
+12,Sittwe,1,12063,myanmar2017_network
+12,Sittwe,2,12096,myanmar2017_network
+12,Sittwe,3,12120,myanmar2017_network
+12,Sittwe,4,12186,myanmar2017_network
+12,Sittwe,5,12174,myanmar2017_network
+12,Sittwe,6,12128,myanmar2017_network
+12,Sittwe,7,12207,myanmar2017_network
+12,Sittwe,8,12119,myanmar2017_network
+12,Sittwe,9,12307,myanmar2017_network
+12,Sittwe,10,12111,myanmar2017_network
+13,Cox's Bazar,1,94273,myanmar2017_network
+13,Cox's Bazar,2,94131,myanmar2017_network
+13,Cox's Bazar,3,94694,myanmar2017_network
+13,Cox's Bazar,4,94732,myanmar2017_network
+13,Cox's Bazar,5,94693,myanmar2017_network
+13,Cox's Bazar,6,94605,myanmar2017_network
+13,Cox's Bazar,7,94322,myanmar2017_network
+13,Cox's Bazar,8,94286,myanmar2017_network
+13,Cox's Bazar,9,94528,myanmar2017_network
+13,Cox's Bazar,10,94369,myanmar2017_network
+13,Kyaukpyu,1,145,myanmar2017_network
+13,Kyaukpyu,2,159,myanmar2017_network
+13,Kyaukpyu,3,159,myanmar2017_network
+13,Kyaukpyu,4,128,myanmar2017_network
+13,Kyaukpyu,5,170,myanmar2017_network
+13,Kyaukpyu,6,157,myanmar2017_network
+13,Kyaukpyu,7,137,myanmar2017_network
+13,Kyaukpyu,8,154,myanmar2017_network
+13,Kyaukpyu,9,142,myanmar2017_network
+13,Kyaukpyu,10,155,myanmar2017_network
+13,Kyauktaw,1,16856,myanmar2017_network
+13,Kyauktaw,2,16947,myanmar2017_network
+13,Kyauktaw,3,16720,myanmar2017_network
+13,Kyauktaw,4,16957,myanmar2017_network
+13,Kyauktaw,5,16770,myanmar2017_network
+13,Kyauktaw,6,16855,myanmar2017_network
+13,Kyauktaw,7,17109,myanmar2017_network
+13,Kyauktaw,8,16692,myanmar2017_network
+13,Kyauktaw,9,16839,myanmar2017_network
+13,Kyauktaw,10,16786,myanmar2017_network
+13,Maungdaw,1,3512,myanmar2017_network
+13,Maungdaw,2,3578,myanmar2017_network
+13,Maungdaw,3,3645,myanmar2017_network
+13,Maungdaw,4,3462,myanmar2017_network
+13,Maungdaw,5,3601,myanmar2017_network
+13,Maungdaw,6,3456,myanmar2017_network
+13,Maungdaw,7,3667,myanmar2017_network
+13,Maungdaw,8,3567,myanmar2017_network
+13,Maungdaw,9,3523,myanmar2017_network
+13,Maungdaw,10,3562,myanmar2017_network
+13,Myebon,1,9941,myanmar2017_network
+13,Myebon,2,10268,myanmar2017_network
+13,Myebon,3,9968,myanmar2017_network
+13,Myebon,4,10028,myanmar2017_network
+13,Myebon,5,10021,myanmar2017_network
+13,Myebon,6,10164,myanmar2017_network
+13,Myebon,7,10146,myanmar2017_network
+13,Myebon,8,10161,myanmar2017_network
+13,Myebon,9,10022,myanmar2017_network
+13,Myebon,10,10168,myanmar2017_network
+13,Pauktaw,1,7228,myanmar2017_network
+13,Pauktaw,2,7316,myanmar2017_network
+13,Pauktaw,3,7171,myanmar2017_network
+13,Pauktaw,4,7199,myanmar2017_network
+13,Pauktaw,5,7324,myanmar2017_network
+13,Pauktaw,6,7247,myanmar2017_network
+13,Pauktaw,7,7412,myanmar2017_network
+13,Pauktaw,8,7376,myanmar2017_network
+13,Pauktaw,9,7350,myanmar2017_network
+13,Pauktaw,10,7237,myanmar2017_network
+13,Ramree,1,22777,myanmar2017_network
+13,Ramree,2,22895,myanmar2017_network
+13,Ramree,3,22460,myanmar2017_network
+13,Ramree,4,22823,myanmar2017_network
+13,Ramree,5,23031,myanmar2017_network
+13,Ramree,6,23386,myanmar2017_network
+13,Ramree,7,22654,myanmar2017_network
+13,Ramree,8,22612,myanmar2017_network
+13,Ramree,9,22574,myanmar2017_network
+13,Ramree,10,23372,myanmar2017_network
+13,Rathedaung,1,20480,myanmar2017_network
+13,Rathedaung,2,20360,myanmar2017_network
+13,Rathedaung,3,20438,myanmar2017_network
+13,Rathedaung,4,20161,myanmar2017_network
+13,Rathedaung,5,20308,myanmar2017_network
+13,Rathedaung,6,20635,myanmar2017_network
+13,Rathedaung,7,20394,myanmar2017_network
+13,Rathedaung,8,20122,myanmar2017_network
+13,Rathedaung,9,20400,myanmar2017_network
+13,Rathedaung,10,20556,myanmar2017_network
+13,Sittwe,1,12638,myanmar2017_network
+13,Sittwe,2,12736,myanmar2017_network
+13,Sittwe,3,12802,myanmar2017_network
+13,Sittwe,4,12759,myanmar2017_network
+13,Sittwe,5,12797,myanmar2017_network
+13,Sittwe,6,12727,myanmar2017_network
+13,Sittwe,7,12880,myanmar2017_network
+13,Sittwe,8,12672,myanmar2017_network
+13,Sittwe,9,12927,myanmar2017_network
+13,Sittwe,10,12680,myanmar2017_network
+14,Cox's Bazar,1,96435,myanmar2017_network
+14,Cox's Bazar,2,96277,myanmar2017_network
+14,Cox's Bazar,3,96911,myanmar2017_network
+14,Cox's Bazar,4,96888,myanmar2017_network
+14,Cox's Bazar,5,96812,myanmar2017_network
+14,Cox's Bazar,6,96725,myanmar2017_network
+14,Cox's Bazar,7,96393,myanmar2017_network
+14,Cox's Bazar,8,96493,myanmar2017_network
+14,Cox's Bazar,9,96732,myanmar2017_network
+14,Cox's Bazar,10,96586,myanmar2017_network
+14,Kyaukpyu,1,142,myanmar2017_network
+14,Kyaukpyu,2,151,myanmar2017_network
+14,Kyaukpyu,3,150,myanmar2017_network
+14,Kyaukpyu,4,120,myanmar2017_network
+14,Kyaukpyu,5,165,myanmar2017_network
+14,Kyaukpyu,6,151,myanmar2017_network
+14,Kyaukpyu,7,132,myanmar2017_network
+14,Kyaukpyu,8,148,myanmar2017_network
+14,Kyaukpyu,9,134,myanmar2017_network
+14,Kyaukpyu,10,148,myanmar2017_network
+14,Kyauktaw,1,17717,myanmar2017_network
+14,Kyauktaw,2,17874,myanmar2017_network
+14,Kyauktaw,3,17597,myanmar2017_network
+14,Kyauktaw,4,17768,myanmar2017_network
+14,Kyauktaw,5,17621,myanmar2017_network
+14,Kyauktaw,6,17751,myanmar2017_network
+14,Kyauktaw,7,17925,myanmar2017_network
+14,Kyauktaw,8,17561,myanmar2017_network
+14,Kyauktaw,9,17660,myanmar2017_network
+14,Kyauktaw,10,17637,myanmar2017_network
+14,Maungdaw,1,3878,myanmar2017_network
+14,Maungdaw,2,3951,myanmar2017_network
+14,Maungdaw,3,4023,myanmar2017_network
+14,Maungdaw,4,3826,myanmar2017_network
+14,Maungdaw,5,3960,myanmar2017_network
+14,Maungdaw,6,3805,myanmar2017_network
+14,Maungdaw,7,4064,myanmar2017_network
+14,Maungdaw,8,3988,myanmar2017_network
+14,Maungdaw,9,3860,myanmar2017_network
+14,Maungdaw,10,3940,myanmar2017_network
+14,Myebon,1,10336,myanmar2017_network
+14,Myebon,2,10655,myanmar2017_network
+14,Myebon,3,10312,myanmar2017_network
+14,Myebon,4,10339,myanmar2017_network
+14,Myebon,5,10384,myanmar2017_network
+14,Myebon,6,10565,myanmar2017_network
+14,Myebon,7,10510,myanmar2017_network
+14,Myebon,8,10462,myanmar2017_network
+14,Myebon,9,10410,myanmar2017_network
+14,Myebon,10,10538,myanmar2017_network
+14,Pauktaw,1,7862,myanmar2017_network
+14,Pauktaw,2,7951,myanmar2017_network
+14,Pauktaw,3,7720,myanmar2017_network
+14,Pauktaw,4,7833,myanmar2017_network
+14,Pauktaw,5,7903,myanmar2017_network
+14,Pauktaw,6,7822,myanmar2017_network
+14,Pauktaw,7,8074,myanmar2017_network
+14,Pauktaw,8,7991,myanmar2017_network
+14,Pauktaw,9,7940,myanmar2017_network
+14,Pauktaw,10,7870,myanmar2017_network
+14,Ramree,1,25363,myanmar2017_network
+14,Ramree,2,25535,myanmar2017_network
+14,Ramree,3,25086,myanmar2017_network
+14,Ramree,4,25423,myanmar2017_network
+14,Ramree,5,25727,myanmar2017_network
+14,Ramree,6,26158,myanmar2017_network
+14,Ramree,7,25402,myanmar2017_network
+14,Ramree,8,25358,myanmar2017_network
+14,Ramree,9,25221,myanmar2017_network
+14,Ramree,10,26024,myanmar2017_network
+14,Rathedaung,1,22355,myanmar2017_network
+14,Rathedaung,2,22200,myanmar2017_network
+14,Rathedaung,3,22373,myanmar2017_network
+14,Rathedaung,4,22034,myanmar2017_network
+14,Rathedaung,5,22262,myanmar2017_network
+14,Rathedaung,6,22527,myanmar2017_network
+14,Rathedaung,7,22284,myanmar2017_network
+14,Rathedaung,8,22037,myanmar2017_network
+14,Rathedaung,9,22312,myanmar2017_network
+14,Rathedaung,10,22351,myanmar2017_network
+14,Sittwe,1,13593,myanmar2017_network
+14,Sittwe,2,13602,myanmar2017_network
+14,Sittwe,3,13694,myanmar2017_network
+14,Sittwe,4,13625,myanmar2017_network
+14,Sittwe,5,13609,myanmar2017_network
+14,Sittwe,6,13590,myanmar2017_network
+14,Sittwe,7,13686,myanmar2017_network
+14,Sittwe,8,13619,myanmar2017_network
+14,Sittwe,9,13846,myanmar2017_network
+14,Sittwe,10,13699,myanmar2017_network
