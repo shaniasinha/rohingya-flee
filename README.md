@@ -1,4 +1,8 @@
-# Rohingya Flee Project
+# From Individual Agents to Social Beings
+## A Community Network Extension of the *Flee3* Framework for the Rohingya Exodus
+
+**Abstract:**
+This study extends the *Flee3* agent-based modelling framework to simulate the 2017 Rohingya refugee crisis, focusing on how social and community networks shape patterns of displacement. Building on conflict triggers and demographic distributions, we introduce a religion-based social network extension and a novel metric of transition probability to capture sequential movement from IDP camps to Cox’s Bazar. Using empirical data from UNHCR, IOM, ISCG, and ACLED, we compare three configurations: the baseline *Flee3* model, a demographic-informed variant, and a network-augmented variant. Results show that while Cox’s Bazar consistently emerges as the dominant destination across all models, demographic and network extensions provide only marginal improvements in predictive accuracy and clustering realism. Transition probabilities remain stable at approximately 0.178 across configurations, suggesting robustness of aggregate flows to behavioural extensions under short simulation horizons. These findings highlight both the promise and limitations of incorporating social networks into forced migration modelling, with implications for advancing computational migration theory and supporting humanitarian planning.
 
 ## Overview
 This project analyzes and visualizes data related to the Rohingya refugee crisis. It aims to provide insights into the patterns, challenges, and outcomes of the displacement.
